@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crawler de site</title>
+</head>
+<body>
+    <header>
+        <h1>Crawler de site</h1>
+    </header>
+    <main>
+        <section class="form_section">
+
+            <h2>Adicionar novo Site</h2>
+            <form id="siteForm">
+                <input type="url" id="NovaUrl" placeholder="Digite a URL..." required>
+                <button type="submit">Adicionar</button>
+            </form>
+
+        </section>
+    </main>
+
+    <h2>adicionar site </h2>
+    <input type="text" id="novaUrl" placeholder="Cole a URL aqui..." style="width: 300px; padding: 5px;">
+    <button onclick="enviarUrl()">➕ Adicionar URL</button>
+
+    <button onclick="acessarDados()">📂 Ver Dados</button>
+    <button onclick="fecharDados()">❌ Fechar</button>
+
+    <div id="conteudo"></div>
+
+    <script src="script.js"></script>
+    
+</body> 
+</html>
