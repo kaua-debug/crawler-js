@@ -15,24 +15,25 @@
     <section class="form-section">
       <h2>Adicionar Novo Site</h2>
       <form id="siteForm">
-        <input type="url" id="novaUrl" placeholder="Digite a URL..." required />
-        <div class="buttons">
+          <input type="url" id="novaUrl" placeholder="Digite a URL..." required /><br>
+          <div class="buttons"><br>
             <button onclick="enviarUrl()">Enviar</button>
-          <button type="button" onclick="acessarDados()">📂 Ver Dados</button>
+          <button type="button" onclick="mostrarDados()">📂 Ver Dados</button>
           <button type="button" onclick="fecharDados()">❌ Fechar</button>
         </div>
       </form>
     </section>
 
+    <section class="links-section">
+        <h2>Sites Visitados</h2>
+        <ul id="linksColetados"></ul>
+      </section>
+
     <section class="dados-section" id="conteudo"></section>
 
-    <section class="links-section">
-      <h2>Links Coletados</h2>
-      <ul id="linksColetados"></ul>
-    </section>
   </main>
 
-  <footer>
+  <footer><br><br><br><br>
     <p>&copy; 2025 - Projeto Crawler</p>
   </footer>
 

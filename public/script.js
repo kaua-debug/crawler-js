@@ -1,6 +1,48 @@
-function acessarDados() {
-    mostrarDados();
+function mostrarDados() {
+    fetch('/dados.json')
+        .then(res => res.json())
+        .then(dados => {
+            const conteudo = document.getElementById('conteudo')
+            conteudo.innerHTML = ''
+            const porSite = {}
+
+            // Agrupar links por site
+            dados.forEach(item => {
+                if (!porSite[item.site]) porSite[item.site] = []
+                porSite[item.site].push(item)
+            });
+
+            // Criar blocos por site 
+            Object.entries(porSite).forEach(([site, links]) => {
+                const bloco = document.createElement('div')
+                bloco.className = 'site'
+
+                const titulo = document.createElement('h2')
+                titulo.innerText = site
+                bloco.appendChild(titulo)
+
+                links.forEach(link => {
+                    const linha = document.createElement('div')
+                    linha.className = 'link'
+
+                    const a = document.createElement('a')
+                    a.href = link.href
+                    a.target = '_blank'
+                    a.innerText = link.texto || link.href
+
+                    linha.appendChild(a)
+                    bloco.appendChild(linha)
+                })
+
+                conteudo.appendChild(bloco)
+            })
+        })
+        .catch(err => {
+            document.getElementById('conteudo').innerHTML = 'Erro ao carregar os dados'
+            console.error(err)
+        })
 }
+
 
 function fecharDados() {
     const divConteudo = document.getElementById('conteudo');
@@ -33,23 +75,47 @@ function enviarUrl() {
     });
 }
 
-async function mostrarDados() {
-    try {
-      const res = await fetch('/dados.json');
-      const contentType = res.headers.get("Content-Type");
-  
-      if (!res.ok) {
-        throw new Error("Erro ao buscar dados.json");
-      }
-  
-      if (!contentType.includes("application/json")) {
-        throw new Error("Resposta não é JSON");
-      }
-  
-      const dados = await res.json();
-      console.log("Dados recebidos:", dados);
-      // continue com a lógica de exibição...
-    } catch (err) {
-      console.error("Erro ao carregar dados.json:", err.message);
-    }
-  }
+function mostrarDados() {
+    fetch('/dados.json')
+    .then(res => res.json())
+    .then(dados => {
+        const conteudo = document.getElementById('conteudo');
+        conteudo.innerHTML = '';
+        const porSite = {};
+
+        // Agrupar links por site
+        dados.forEach(item => {
+            if (!porSite[item.site]) porSite[item.site] = [];
+            porSite[item.site].push(item);
+        });
+
+        // Criar blocos por site
+        Object.entries(porSite).forEach(([site, links]) => {
+            const bloco = document.createElement('div');
+            bloco.className = 'site';
+
+            const titulo = document.createElement('h2');
+            titulo.innerText = site;
+            bloco.appendChild(titulo);
+
+            links.forEach(link => {
+                const linha = document.createElement('div');
+                linha.className = 'link';
+
+                const a = document.createElement('a');
+                a.href = link.href;
+                a.target = '_blank';
+                a.innerText = link.texto || link.href;
+
+                linha.appendChild(a);
+                bloco.appendChild(linha);
+            });
+
+            conteudo.appendChild(bloco);
+        });
+    })
+    .catch(error => {
+        document.getElementById('conteudo').innerHTML = 'Erro ao carregar dados';
+        console.log(error);
+    });
+}

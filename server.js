@@ -50,6 +50,7 @@ app.post('/adicionar-site', async (req, res) => {
     }
 
     fs.writeFileSync('dados.json', JSON.stringify(linksUnicos, null, 2), 'utf-8');
+    
     sites.push(url);
 
     res.status(200).json({ message: 'Site adicionado com sucesso', totalLinks: resultado.links.length });
@@ -91,6 +92,7 @@ async function crawler(url) {
 
     const title = $('title').text().trim();
     const links = [];
+    const imagens = [];
 
     $('a').each((index, element) => {
       const texto = $(element).text();
@@ -106,13 +108,30 @@ async function crawler(url) {
      
     });
 
+    $('img').each((index, element) => {
+      const src = $(element).attr('src')
+      const alt = $(element).attr('alt') || '';
 
+      if (src) {
+        imagens.push({
+          site: url,
+          alt: alt.trim(),
+          src: src.startsWith('http') ? src : new URL(src, url).href
+        })
+      }
+
+    })
+
+    console.log(chalk.green(`✅ ${links.length} links e ${imagens.length} imagens encontrados em ${url}`));
 
     const resultado = {
       titulo: title,
       site: url,
       totalLinks: links.length,
-      links: links
+      totalImagens: imagens.length,
+      links: links,
+      links,
+      imagens
     };
 
     console.log(chalk.green(`✅ ${links.length} links encontrados em ${url}`));
