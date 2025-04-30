@@ -8,7 +8,7 @@ body {
   }
   
   header {
-    background: linear-gradient(to right, #007cf0, #00dfd8);
+    background: linear-gradient(to right, #000000, #ff0303);
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -27,7 +27,7 @@ body {
   }
   
   h2 {
-    color: #00dfd8;
+    color: #f50303;
     margin-bottom: 1rem;
   }
   
@@ -48,7 +48,7 @@ body {
   input[type="text"] {
     flex: 1;
     padding: 0.75rem;
-    border: 1px solid #007cf0;
+    border: 1px solid #ff0303;
     border-radius: 8px;
     background-color: #10131d;
     color: #e0e0e0;
@@ -58,12 +58,12 @@ body {
   }
   
   input:focus {
-    border-color: #00dfd8;
-    box-shadow: 0 0 5px #00dfd8;
+    border-color: #000000;
+    box-shadow: 0 0 5px #ff0303;
   }
   
   button {
-    background: linear-gradient(to right, #007cf0, #00dfd8);
+    background: linear-gradient(to right, #000000, #ff0303);
     color: #fff;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -75,7 +75,7 @@ body {
   
   button:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 10px #00dfd8;
+    box-shadow: 0 0 10px #ff0303;
   }
   
   #conteudo {

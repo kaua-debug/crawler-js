@@ -1,0 +1,112 @@
+[
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "content",
+    "href": "#main"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "package search",
+    "href": "#search"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "sign in",
+    "href": "#signin"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Pro",
+    "href": "/products/pro"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Teams",
+    "href": "/products/teams"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Pricing",
+    "href": "/products"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Documentation",
+    "href": "https://docs.npmjs.com"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "",
+    "href": "/"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Sign Up",
+    "href": "/signup"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Sign In",
+    "href": "/login"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "",
+    "href": "https://github.com/npm"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "",
+    "href": "https://github.com"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Advisories",
+    "href": "https://github.com/advisories"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Status",
+    "href": "http://status.npmjs.org/"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Contact npm",
+    "href": "/support"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "About",
+    "href": "/about"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Blog",
+    "href": "https://github.blog/tag/npm/"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Press",
+    "href": "/press"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Policies",
+    "href": "/policies/"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Terms of Use",
+    "href": "/policies/terms"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Code of Conduct",
+    "href": "/policies/conduct"
+  },
+  {
+    "site": "https://www.npmjs.com",
+    "texto": "Privacy",
+    "href": "/policies/privacy"
+  }
+]
