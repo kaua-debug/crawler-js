@@ -28,7 +28,8 @@ function mostrarDados() {
                     const a = document.createElement('a')
                     a.href = link.href
                     a.target = '_blank'
-                    a.innerText = link.texto || link.href
+                    a.innerText = link.href;
+
 
                     linha.appendChild(a)
                     bloco.appendChild(linha)
@@ -68,6 +69,18 @@ function enviarUrl() {
     .then(res => res.json())
     .then(data => {
         alert(data.message || 'URL adicionada com sucesso');
+
+        // Recarrega os novos sites
+
+        fetch('/dados.json')
+        .then( res => res.json())
+        .then(dados => {
+            todosOsDados = dados
+            const seletor = document.getElementById('SeletorDesites')
+            seletor.innerHTML = '<option value = "">Escolha um site</option>'
+            preencherSeletorDeSites() 
+        })
+
     })
     .catch(error => {
         console.error(error);
@@ -105,7 +118,8 @@ function mostrarDados() {
                 const a = document.createElement('a');
                 a.href = link.href;
                 a.target = '_blank';
-                a.innerText = link.texto || link.href;
+                a.innerText = link.href;
+
 
                 linha.appendChild(a);
                 bloco.appendChild(linha);

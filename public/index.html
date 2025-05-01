@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Crawler de Sites</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <header>
     <h1>Crawler de Sites</h1>
@@ -15,28 +17,36 @@
     <section class="form-section">
       <h2>Adicionar Novo Site</h2>
       <form id="siteForm">
-          <input type="url" id="novaUrl" placeholder="Digite a URL..." required /><br>
-          <div class="buttons"><br>
-            <button onclick="enviarUrl()">Enviar</button>
+        <input type="url" id="novaUrl" placeholder="Digite a URL..." required />
+        <div class="buttons">
+          <button type="button" onclick="enviarUrl()">Enviar</button>
           <button type="button" onclick="mostrarDados()">📂 Ver Dados</button>
           <button type="button" onclick="fecharDados()">❌ Fechar</button>
         </div>
       </form>
     </section>
 
-    <section class="links-section">
-        <h2>Sites Visitados</h2>
-        <ul id="linksColetados"></ul>
-      </section>
+    <section class="dados-section">
+      <h2>Sites Visitados:</h2>
+      <div id="conteudo"></div> 
+    </section>
 
-    <section class="dados-section" id="conteudo"></section>
+    <section class="links-section">
+
+      <select id="seletorDeSites" class="seletorDeSites" onchange="mostrarLinksPorSite()">
+        <option value="">Ecolha um site</option>
+      </select>
+      <ul id="linksColetados"></ul>
+
+    </section>
 
   </main>
 
-  <footer><br><br><br><br>
+  <footer>
     <p>&copy; 2025 - Projeto Crawler</p>
   </footer>
 
   <script src="script.js"></script>
 </body>
+
 </html>
