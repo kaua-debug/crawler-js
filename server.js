@@ -81,17 +81,6 @@ app.post('/adicionar-site', async (req, res) => {
   }
 })
 
-    //verifica se o site ja existe
-
-    /*const indexSite = dados.findIndex(site => site,site === url)
-
-    if (indexSite <= 0) {
-      // se existir atualiza os dados do site
-      dados[indexSite] = resultado
-    } else {
-      // se não existir adiciona o novo site
-      dados.push(resultado)
-    }*/
 
     function getDataHoraAtual() {
       const agora = new Date();
@@ -214,39 +203,3 @@ app.post('/adicionar-site', async (req, res) => {
 app.listen(port, () => {
   console.log(`Servidor rodando em http://localhost:${port}`)
 })
-
-
-
-
-
-
-app.listen(port, () => {
-  console.log(`🚀 Servidor rodando em http://localhost:${port}`);
-});
-
-/* fs.writeFileSync('dados.json', JSON.stringify(linksUnicos, null, 2), 'utf-8');
-
- sites.push(url);
- 
- res.status(200).json({ message: 'Site adicionado com sucesso', totalLinks: resultado.links.length });
-} catch (error) {
-  console.error(chalk.red(`❌ Erro ao processar o site: ${error.message}`));
-  res.status(500).json({ message: 'Erro interno do servidor' });
-}
-});*/
-
-
-// Atualiza ou adiciona o resultado no array
-/* const indexSite = dados.findIndex(site => site.site === url);
-if (indexSite >= 0) {
-  dados[indexSite] = resultado;
-    } else {
-      dados.push(resultado);
-    }
-    
-    await delay(2000);
-  }*/
-
- /*fs.writeFileSync('dados.json', JSON.stringify(dados, null, 2), 'utf-8');
- console.log('\n✅ Todos os dados foram salvos agrupados por site em dados.json');
-}*/
