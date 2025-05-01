@@ -8,7 +8,7 @@ body {
   }
 
   .link {
-    color: blue;
+    color: rgb(255, 255, 255);
     text-decoration: underline;
     word-break: break-all; 
   }
