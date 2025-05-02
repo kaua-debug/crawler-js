@@ -1,7 +1,11 @@
 // Função para fechar os dados
 function fecharDados() {
     const divConteudo = document.getElementById('conteudo');
-    divConteudo.textContent = '';
+    if (divConteudo) {
+        divConteudo.textContent = '';
+    } else {
+        console.error('Elemento #conteudo não encontrado!');
+    }
 }
 
 // Função para enviar uma nova URL
@@ -13,6 +17,8 @@ function enviarUrl() {
         alert('Por favor, insira uma URL válida');
         return;
     }
+
+    console.log('Enviando URL:', url); // Log para verificar a URL
 
     fetch('/adicionar-site', {
         method: 'POST',
@@ -31,48 +37,53 @@ function enviarUrl() {
         .then(dados => {
             todosOsDados = dados;
             preencherSeletorDeSites(dados); // Atualiza seletor com os novos dados
+        })
+        .catch(error => {
+            console.error('Erro ao carregar dados atualizados:', error);
+            alert('Erro ao carregar dados atualizados.');
         });
     })
     .catch(error => {
-        console.error(error);
+        console.error('Erro ao adicionar URL:', error);
         alert('Erro ao adicionar URL');
     });
 }
 
+
+// Função para mostrar os dados
 function mostrarDados() {
     const conteudo = document.getElementById('conteudo');
     
-    // Verifique se o elemento #conteudo existe
     if (!conteudo) {
       console.error('Elemento #conteudo não encontrado!');
       return;
     }
-  
+
     fetch('/dados.json')
       .then(res => res.json())
       .then(dados => {
         conteudo.innerHTML = ''; // Limpa o conteúdo anterior
         const porSite = {};
-  
+
         // Agrupar links por site
         dados.forEach(item => {
           if (!porSite[item.site]) porSite[item.site] = [];
           porSite[item.site].push(item);
         });
-  
+
         // Criar blocos por site
         Object.entries(porSite).forEach(([site, links]) => {
           const bloco = document.createElement('div');
           bloco.className = 'site';
-  
+
           const titulo = document.createElement('h2');
           titulo.innerText = site;
           bloco.appendChild(titulo);
-  
+
           links.forEach(link => {
             const linha = document.createElement('div');
             linha.className = 'link';
-  
+
             if (link.tipo === 'img') { // Verifica se é imagem
               const img = document.createElement('img');
               img.src = link.href;
@@ -87,20 +98,19 @@ function mostrarDados() {
               a.innerText = link.href;
               linha.appendChild(a);
             }
-  
+
             bloco.appendChild(linha);
           });
-  
+
           conteudo.appendChild(bloco);
         });
       })
       .catch(err => {
         document.getElementById('conteudo').innerHTML = 'Erro ao carregar os dados';
-        console.error(err);
+        console.error('Erro ao carregar dados:', err);
       });
-  }
-  
-  
+}
+
 let todosOsDados = [];
 
 // Carrega os dados e preenche seletor quando a página carrega
@@ -112,7 +122,7 @@ window.addEventListener('DOMContentLoaded', () => {
         preencherSeletorDeSites(dados);
     })
     .catch(error => {
-        console.error(error);
+        console.error('Erro ao carregar dados:', error);
     });
 });
 
