@@ -120,21 +120,24 @@ async function crawler(url) {
 
     $('img').each((_, el) => {
       let src = $(el).attr('src');
-      const alt = $(el).attr('alt') || '';
-
-      if (src && !src.startsWith('http')) {
+      if (src && !src.startsWith('http')) 
+        
+        {
         const base = new URL(url);
         src = new URL(src, base).href;
       }
+      const alt = $(el).attr('alt') || '';
 
-      if (src) {
-        imagens.push({
-          site: url,
-          src: src,
-          alt: alt.trim()
-        });
-      }
-    });
+
+      if (src && src.startsWith('http')) {
+        links.push({
+            site: url,
+            href: src,
+            texto: 'Imagem',
+            tipo: 'img'
+        })
+    }
+});
 
     const resultado = {
       titulo: title,
