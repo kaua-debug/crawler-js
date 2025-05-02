@@ -1,0 +1,874 @@
+{
+  "titulo": "Amazon.com.br : shopee com br",
+  "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+  "totalLinks": 151,
+  "totalImagens": 18,
+  "links": [
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Conteúdo principal",
+      "href": "#skippedLink"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Resultados de busca",
+      "href": ".s-asin a:has(h2)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Filtros",
+      "href": "#s-skipLinkTargetForFilterOptions"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": ".com.br",
+      "href": "/ref=nav_logo"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Olá, faça seu login\n  Contas e Listas",
+      "href": "https://www.amazon.com.br/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com.br%2Fs%2F%3F_encoding%3DUTF8%26adgrpid%3D1141294063769284%26hvadid%3D71331047842431%26hvbmt%3Dbe%26hvdev%3Dc%26hvlocphy%3D147008%26hvnetw%3Do%26hvqmt%3De%26hvtargid%3Dkwd-71331585566048%253Aloc-20%26hydadcr%3D12131_13346841%26k%3Dshopee%2520com%2520br%26mcid%3Dcd31c436c1ff318e9a7c73b4649e496d%26ref%3Dpd_sl_4xh0zzbkrp_e%26tag%3Dmsndesktopsta-20%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=brflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Devoluções\n  e Pedidos",
+      "href": "/gp/css/order-history?ref_=nav_orders_first"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "0\n      \n    \n    \n      \n         \n      \n      \n        Carrinho",
+      "href": "/gp/cart/view.html?ref_=nav_cart"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Todos",
+      "href": "/gp/site-directory?ref_=nav_em_js_disabled"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Venda na Amazon",
+      "href": "/gp/browse.html?node=17877554011&ld=ASBRSOA_retail_sell_header_t1&ref_=nav_cs_sell"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Mais Vendidos",
+      "href": "/gp/bestsellers/?ref_=nav_cs_bestsellers"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Ofertas do Dia",
+      "href": "/deals?ref_=nav_cs_gb"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Prime",
+      "href": "/prime?ref_=nav_cs_primelink_nonmember"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Livros",
+      "href": "/Livros/b/?ie=UTF8&node=6740748011&ref_=nav_cs_books"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Música",
+      "href": "/music/unlimited?ref_=nav_cs_music"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Novidades na Amazon",
+      "href": "/gp/new-releases/?ref_=nav_cs_newreleases"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Ideias de Presente",
+      "href": "/gcx/-/gfhz/?ref_=nav_cs_giftfinder"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Eletrônicos",
+      "href": "/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Computadores",
+      "href": "/Computadores-Informatica/b/?ie=UTF8&node=16339926011&ref_=nav_cs_pc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Games",
+      "href": "/Games-Consoles/b/?ie=UTF8&node=7791985011&ref_=nav_cs_video_games"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Casa",
+      "href": "/Casa/b/?ie=UTF8&node=16191000011&ref_=nav_cs_home"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Cuidados Pessoais",
+      "href": "/gp/browse.html?node=16215417011&ref_=nav_cs_hpc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Beleza",
+      "href": "/gp/browse.html?node=16194414011&ref_=nav_cs_beauty"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Amazon Moda",
+      "href": "/gp/browse.html?node=17365811011&ref_=nav_cs_fashion"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Brinquedos e Jogos",
+      "href": "/gp/browse.html?node=16194299011&ref_=nav_cs_toys"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Alimentos e Bebidas",
+      "href": "/gp/browse.html?node=18991079011&ref_=nav_cs_grocery"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Ferramentas e Construção",
+      "href": "/Ferramentas-Construcao/b/?ie=UTF8&node=16957182011&ref_=nav_cs_hi"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Bebês",
+      "href": "/gp/browse.html?node=17242603011&ref_=nav_cs_baby"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Automotivos",
+      "href": "/gp/browse.html?node=18914209011&ref_=nav_cs_automotive"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Pet Shop",
+      "href": "/gp/browse.html?node=18991136011&ref_=nav_cs_pets"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Atendimento ao Cliente",
+      "href": "/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_help"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/gp/video/ssoredirect/?ie=UTF8&pvp=%2Fdetail%2Famzn1.dv.gti.ce18124f-5eb6-431a-b5d3-41ba43d8ce55%2F%3Fref_%3Ddvm_crs_nav_br_s_dt_swm_l_al_g20_tp&ref_=nav_swm_dvm_crs_nav_br_s_dt_swm_l_al_g20_tp&pf_rd_p=758bf550-2573-4f51-89b6-7b825a94a842&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2Q3Y263D00KWC&pf_rd_r=VZ4SW6M926TQX0VPPZCX"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Como-Ser-Afiliado-Shopee-Renda-ebook/dp/B0C2QKL4GJ/ref=sr_1_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-1"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Como Ser Afiliado Shopee: Seja um Afiliado da Shopee e Faça Renda Extra",
+      "href": "/Como-Ser-Afiliado-Shopee-Renda-ebook/dp/B0C2QKL4GJ/ref=sr_1_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-1"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "4,2 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "13",
+      "href": "/Como-Ser-Afiliado-Shopee-Renda-ebook/dp/B0C2QKL4GJ/ref=sr_1_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-1#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "eBook Kindle",
+      "href": "/Como-Ser-Afiliado-Shopee-Renda-ebook/dp/B0C2QKL4GJ/ref=sr_1_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-1"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 0,00R$0,00",
+      "href": "/Como-Ser-Afiliado-Shopee-Renda-ebook/dp/B0C2QKL4GJ/ref=sr_1_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-1"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "/kindle-dbs/ku2?passThroughAsin=B0C2QKL4GJ&ref_=mbs_ku_lp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Roku-Express-Dispositivo-streaming-compat%C3%ADvel/dp/B0CYHF34D6/ref=sr_1_2?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-2&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
+      "href": "/Roku-Express-Dispositivo-streaming-compat%C3%ADvel/dp/B0CYHF34D6/ref=sr_1_2?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-2&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "4,7 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "4.389",
+      "href": "/Roku-Express-Dispositivo-streaming-compat%C3%ADvel/dp/B0CYHF34D6/ref=sr_1_2?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-2&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 249,90R$249,90",
+      "href": "/Roku-Express-Dispositivo-streaming-compat%C3%ADvel/dp/B0CYHF34D6/ref=sr_1_2?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-2&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Afiliado-Shopee-Iniciante-Perfil-achadinhos-ebook/dp/B0DF21SVPW/ref=sr_1_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-3"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Afiliado Shopee Iniciante: Perfil de achadinhos e como vender",
+      "href": "/Afiliado-Shopee-Iniciante-Perfil-achadinhos-ebook/dp/B0DF21SVPW/ref=sr_1_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-3"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "5,0 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "1",
+      "href": "/Afiliado-Shopee-Iniciante-Perfil-achadinhos-ebook/dp/B0DF21SVPW/ref=sr_1_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-3#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "eBook Kindle",
+      "href": "/Afiliado-Shopee-Iniciante-Perfil-achadinhos-ebook/dp/B0DF21SVPW/ref=sr_1_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-3"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 0,00R$0,00",
+      "href": "/Afiliado-Shopee-Iniciante-Perfil-achadinhos-ebook/dp/B0DF21SVPW/ref=sr_1_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-3"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "/kindle-dbs/ku2?passThroughAsin=B0DF21SVPW&ref_=mbs_ku_lp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Passos-para-Vender-Shopee-irresist%C3%ADveis-ebook/dp/B0F5G6LJVN/ref=sr_1_4?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-4"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "7 Passos para Vender na Shopee: Domine as regras, crie ofertas irresistíveis e transforme sua loja virtual na Shopee em um negócio rentável.",
+      "href": "/Passos-para-Vender-Shopee-irresist%C3%ADveis-ebook/dp/B0F5G6LJVN/ref=sr_1_4?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-4"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "5,0 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "1",
+      "href": "/Passos-para-Vender-Shopee-irresist%C3%ADveis-ebook/dp/B0F5G6LJVN/ref=sr_1_4?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-4#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "eBook Kindle",
+      "href": "/Passos-para-Vender-Shopee-irresist%C3%ADveis-ebook/dp/B0F5G6LJVN/ref=sr_1_4?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-4"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 0,00R$0,00",
+      "href": "/Passos-para-Vender-Shopee-irresist%C3%ADveis-ebook/dp/B0F5G6LJVN/ref=sr_1_4?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-4"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "/kindle-dbs/ku2?passThroughAsin=B0F5G6LJVN&ref_=mbs_ku_lp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Shoulder-Feminina-Compacta-Estilosa-Material/dp/B0DKCF99KW/ref=sr_1_5?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Shoulder Bag Feminina Compacta, Estilosa e Prática Material Eco Friendly - Versatile",
+      "href": "/Shoulder-Feminina-Compacta-Estilosa-Material/dp/B0DKCF99KW/ref=sr_1_5?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "4,4 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "7",
+      "href": "/Shoulder-Feminina-Compacta-Estilosa-Material/dp/B0DKCF99KW/ref=sr_1_5?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Oferta",
+      "href": "/gp/goldbox/"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 56,99R$56,99 De: R$ 79,00De: R$ 79,00R$79,00",
+      "href": "/Shoulder-Feminina-Compacta-Estilosa-Material/dp/B0DKCF99KW/ref=sr_1_5?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7DX5C1/ref=sr_1_6?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7DX5C1/ref=is_sr_s_dp_1?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7CRD8Q/ref=is_sr_s_dp_2?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7D6V5V/ref=is_sr_s_dp_3?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Kit com 03 Vestidos Estilo Camiseta Confortável Não Amassa",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7DX5C1/ref=sr_1_6?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "3,3 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "14",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7DX5C1/ref=sr_1_6?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 99,90R$99,90",
+      "href": "/Vestidos-Estilo-Camiseta-Confort%C3%A1vel-Amassa/dp/B09X7DX5C1/ref=sr_1_6?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Pequenas empresas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "https://www.amazon.com.br/b?node=23467671011"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/Shopee-Full-pr%C3%A1tico-primeiras-vendas-ebook/dp/B0DRB3XL18/ref=sr_1_7?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-7"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Shopee Full: O guia prático para suas primeiras vendas e escala",
+      "href": "/Shopee-Full-pr%C3%A1tico-primeiras-vendas-ebook/dp/B0DRB3XL18/ref=sr_1_7?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-7"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "4,5 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "2",
+      "href": "/Shopee-Full-pr%C3%A1tico-primeiras-vendas-ebook/dp/B0DRB3XL18/ref=sr_1_7?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-7#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "eBook Kindle",
+      "href": "/Shopee-Full-pr%C3%A1tico-primeiras-vendas-ebook/dp/B0DRB3XL18/ref=sr_1_7?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-7"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 0,00R$0,00",
+      "href": "/Shopee-Full-pr%C3%A1tico-primeiras-vendas-ebook/dp/B0DRB3XL18/ref=sr_1_7?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-7"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "/kindle-dbs/ku2?passThroughAsin=B0DRB3XL18&ref_=mbs_ku_lp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/zero-reais-como-afiliado-Shopee-ebook/dp/B0DFJR731C/ref=sr_1_8?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-8"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Do zero aos mil reais como afiliado Shopee: Venda como afiliado digital",
+      "href": "/zero-reais-como-afiliado-Shopee-ebook/dp/B0DFJR731C/ref=sr_1_8?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-8"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "3,9 de 5 estrelas",
+      "href": "javascript:void(0)"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "3",
+      "href": "/zero-reais-como-afiliado-Shopee-ebook/dp/B0DFJR731C/ref=sr_1_8?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-8#customerReviews"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "eBook Kindle",
+      "href": "/zero-reais-como-afiliado-Shopee-ebook/dp/B0DFJR731C/ref=sr_1_8?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-8"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$ 0,00R$0,00",
+      "href": "/zero-reais-como-afiliado-Shopee-ebook/dp/B0DFJR731C/ref=sr_1_8?adgrpid=1141294063769284&dib=eyJ2IjoiMSJ9.rodnKOZOcSaKAR2ewbk93zX1_Ctfn8czHrb5UODYpxcsa2kNQO7f-nAjgzahoRlolircurARAuMLG5b1pdcl1D8UuGbmnJ32KdgISZvWSZSY0mu0qgzXXlA8a75StbXo.sYPfBIBre_QaaXyqqtKYSk3x7hTbtXiJc09Cg1_Acxw&dib_tag=se&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&keywords=shopee+com+br&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&sr=8-8"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Saiba mais",
+      "href": "/kindle-dbs/ku2?passThroughAsin=B0DFJR731C&ref_=mbs_ku_lp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Consulte a seção de ajuda",
+      "href": "/gp/help/customer/display.html?nodeId=201366230"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "entre em contato conosco",
+      "href": "/gp/help/customer/contact-us"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Voltar ao menu de filtragem",
+      "href": "#s-skipLinkTargetForFilterOptions"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Pular para os resultados principais da pesquisa",
+      "href": "#s-skipLinkTargetForMainSearchResults"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Frete Grátis em envios pela Amazon\n\n    \n      \n        Todos os clientes têm frete GRÁTIS em pedidos a partir de R$ 79 em produtos enviados pela Amazon.",
+      "href": "/s?k=shopee+com+br&rh=p_n_free_shipping_eligible%3A19171733011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=19171732011&tag=msndesktopsta-20&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3AHQbc%2B2cWzx4yHafEwh%2B7mpLeCO9Cbouf1CRlYYnmEeA"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Feminino",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_n_feature_twenty-eight_browse-bin%3A121476056011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=121476055011&tag=msndesktopsta-20&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_1&ds=v1%3ARGbijQ0j7VuWslDnoGmyPXKyUmXz%2FxUXpH0%2Ff7F4bvc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Roupas Femininas",
+      "href": "/s?k=shopee+com+br&rh=n%3A17681993011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=18726358011&tag=msndesktopsta-20&ref=sr_nr_n_1&ds=v1%3A4KAHMehfpLGsZYVtXgSEouThpISuXrs0Vu5PJnk6e9c"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Vestuário Íntimo Feminino",
+      "href": "/s?k=shopee+com+br&rh=n%3A17681993011%2Cn%3A17682413011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=18726358011&tag=msndesktopsta-20&ref=sr_nr_n_2&ds=v1%3A04Sbvcd0sJoXk0dqdu5Mol6WIK%2F31KrNiBswPeyWWFo"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Beleza",
+      "href": "/s?k=shopee+com+br&rh=n%3A16194414011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=18726358011&tag=msndesktopsta-20&ref=sr_nr_n_3&ds=v1%3Aji1UnLfmibYtzgyBbkwC9cph0GYUuO6pHdZu3ZRvI4U"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Cuidados com o Cabelo",
+      "href": "/s?k=shopee+com+br&rh=n%3A16194414011%2Cn%3A16754346011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=18726358011&tag=msndesktopsta-20&ref=sr_nr_n_4&ds=v1%3Ai8zU3ZYuFsMvIiPb85zI7VZRc0K6HB7zDMTMqlsXPOc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "R$50 a R$150",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_36%3A17270756011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=16254006011&tag=msndesktopsta-20&ref=sr_nr_p_36_1&ds=v1%3A51YU8Oz2KloMVUL92A9YF%2BeopTxAOTdhtkJqgQ8tjJY"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "XGG",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_n_size_six_browse-vebin%3A17908773011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=17908763011&tag=msndesktopsta-20&ref=sr_nr_p_n_size_six_browse-vebin_1&ds=v1%3AzQ9O980IOLpqsUxvn9jf7B3KiWvL%2B2Oy9AU2tG4qzAk"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_n_size_two_browse-vebin%3A17894114011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=17833770011&tag=msndesktopsta-20&ref=sr_nr_p_n_size_two_browse-vebin_1&ds=v1%3AGufKm7sBbmZdoNlPEQnwpsCtwJsfLwQTCvikvBWonLY"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_n_size_two_browse-vebin%3A17894105011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=17833770011&tag=msndesktopsta-20&ref=sr_nr_p_n_size_two_browse-vebin_2&ds=v1%3AhCmCWrSDEfoIKTyNWa3YGlPLq8JRZseFnzv1aDEvY04"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "CHAPELARIAVINTAGE",
+      "href": "/s?k=shopee+com+br&rh=n%3A17365811011%2Cp_6%3AA3ACXSJDZL3DR2&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=15137643011&tag=msndesktopsta-20&ref=sr_nr_p_6_1&ds=v1%3A6AWS3HkqP025P47cyitogDt%2B%2FNdSmQGX%2B1wI4r8g8FY"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Exibir Itens sem Estoque",
+      "href": "/s?k=shopee+com+br&rh=p_n_availability%3A16254085011&dc&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&qid=1746214792&rnid=16254083011&tag=msndesktopsta-20&ref=sr_nr_p_n_availability_2&ds=v1%3Aga9YEbi%2BrjoaZsEnFdkmf4haFdk3opo0lVONMsGFgRg"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Exiba ou edite seu histórico de buscas",
+      "href": "/gp/history"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Sobre a Amazon",
+      "href": "https://www.aboutamazon.com.br/"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Informações corporativas",
+      "href": "/gp/browse.html?node=23490129011&ref_=footer_gw_m_b_corporate"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Carreiras",
+      "href": "https://www.amazon.jobs"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Comunicados à imprensa",
+      "href": "/gp/browse.html?node=15155858011&ref_=footer_community"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Comunidade",
+      "href": "/gp/browse.html?node=16593314011&ref_=footer_community"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Acessibilidade",
+      "href": "/gp/browse.html?node=23454858011&ref_=footer_accessibility"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Amazon Science",
+      "href": "https://www.amazon.science"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Venda na Amazon",
+      "href": "https://venda.amazon.com.br/?ld=SDBRSOA_footerDesk_T1"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Proteja e construa a sua marca",
+      "href": "https://brandservices.amazon.com.br?ref=AOBRABRLGNRFOOT&ld=AOBRABRLGNRFOOT"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Forneça para a Amazon",
+      "href": "https://supply.amazon.com/?ref_=footer_sta&lang=pt-BR"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Publique seus livros",
+      "href": "https://kdp.amazon.com?language=pt_BR"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Seja um associado",
+      "href": "https://associados.amazon.com.br"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Anuncie seus produtos",
+      "href": "https://advertising.amazon.com/pt-br?ref=footer_advtsing_BR"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Meios de Pagamento",
+      "href": "/gp/browse.html?node=16568920011&ref_=footer_pay_tc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Compre com Pontos",
+      "href": "/gp/browse.html?node=24028636011&ref_=footer_pay_tc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Cartão de Crédito",
+      "href": "/gp/browse.html?node=24434261011&ref_=footer_pay_tc"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Sua conta",
+      "href": "https://www.amazon.com.br/gp/css/homepage.html?ref_=footer_ya"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Frete e prazo de entrega",
+      "href": "/gp/help/customer/display.html?nodeId=201365500&ref_=footer_shiprates"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Devoluções e reembolsos",
+      "href": "/gp/orc/returns/homepage.html?ref_=footer_hy_f_4"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Gerencie seu conteúdo e dispositivos",
+      "href": "/hz/mycd/myx?ref_=footer_myk"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Recalls e alertas de segurança do produto",
+      "href": "https://www.amazon.com.br/your-product-safety-alerts?ref_=footer_bsx_ypsa"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Ajuda",
+      "href": "/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "",
+      "href": "/ref=footer_logo"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Brasil",
+      "href": "/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Condições de Uso",
+      "href": "/gp/help/customer/display.html?nodeId=201283910&ref_=footer_cou"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Notificação de Privacidade",
+      "href": "/gp/help/customer/display.html?nodeId=201283950&ref_=footer_privacy"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Cookies",
+      "href": "/gp/help/customer/display.html?nodeId=201890250&ref_=footer_cookies"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Anúncios Baseados em Interesses",
+      "href": "/gp/help/customer/display.html?nodeId=201283970&ref_=footer_iba"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "texto": "Fale conosco",
+      "href": "https://www.amazon.com.br/gp/help/customer/contact-us?ref=footer_gw_m_b_cu"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://fls-na.amazon.com.br/1/batch/1/OP/A2Q3Y263D00KWC:137-9690175-4511164:VZ4SW6M926TQX0VPPZCX$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DVZ4SW6M926TQX0VPPZCX:0",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546817485_.png",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/digital/video/merch/Movie/G201_2025_SWM_800x78_POST_Final_pt-BR_GSS00023891._CB546874508_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71lQ5qXdB-L._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/61gHqqimicL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/718c0Y+yRBL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/51IdquYHqZL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/41NWZ7bJdvL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/51MDCN7giRL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/111mHoVK0kL._SS200_.png",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71n2F9p769L._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71mJYMNkVFL._AC_UL320_.jpg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Imagem",
+      "tipo": "img"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/personalization/ybh/loading-4x-gray._CB485916919_.gif",
+      "texto": "Imagem",
+      "tipo": "img"
+    }
+  ],
+  "imagens": [
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://fls-na.amazon.com.br/1/batch/1/OP/A2Q3Y263D00KWC:137-9690175-4511164:VZ4SW6M926TQX0VPPZCX$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DVZ4SW6M926TQX0VPPZCX:0",
+      "texto": ""
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546817485_.png",
+      "texto": ""
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/digital/video/merch/Movie/G201_2025_SWM_800x78_POST_Final_pt-BR_GSS00023891._CB546874508_.jpg",
+      "texto": "Prime Video"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71lQ5qXdB-L._AC_UL320_.jpg",
+      "texto": "Como Ser Afiliado Shopee: Seja um Afiliado da Shopee e Faça Renda Extra"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Kindle Unlimited"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/61gHqqimicL._AC_UL320_.jpg",
+      "texto": "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/718c0Y+yRBL._AC_UL320_.jpg",
+      "texto": "Afiliado Shopee Iniciante: Perfil de achadinhos e como vender"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Kindle Unlimited"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/51IdquYHqZL._AC_UL320_.jpg",
+      "texto": "7 Passos para Vender na Shopee: Domine as regras, crie ofertas irresistíveis e transforme sua loja virtual na Shopee em um..."
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Kindle Unlimited"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/41NWZ7bJdvL._AC_UL320_.jpg",
+      "texto": "Shoulder Bag Feminina Compacta, Estilosa e Prática Material Eco Friendly - Versatile"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/51MDCN7giRL._AC_UL320_.jpg",
+      "texto": "Kit com 03 Vestidos Estilo Camiseta Confortável Não Amassa"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/111mHoVK0kL._SS200_.png",
+      "texto": ""
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71n2F9p769L._AC_UL320_.jpg",
+      "texto": "Shopee Full: O guia prático para suas primeiras vendas e escala"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Kindle Unlimited"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/71mJYMNkVFL._AC_UL320_.jpg",
+      "texto": "Do zero aos mil reais como afiliado Shopee: Venda como afiliado digital"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/I/21EzREA+0yL.svg",
+      "texto": "Kindle Unlimited"
+    },
+    {
+      "site": "https://www.amazon.com.br/s?k=shopee+com+br&adgrpid=1141294063769284&hvadid=71331047842431&hvbmt=be&hvdev=c&hvlocphy=147008&hvnetw=o&hvqmt=e&hvtargid=kwd-71331585566048%3Aloc-20&hydadcr=12131_13346841&mcid=cd31c436c1ff318e9a7c73b4649e496d&tag=msndesktopsta-20&ref=pd_sl_4xh0zzbkrp_e",
+      "href": "https://m.media-amazon.com/images/G/32/personalization/ybh/loading-4x-gray._CB485916919_.gif",
+      "texto": ""
+    }
+  ],
+  "dataHoraLog": "02/05/2025 16:39"
+}

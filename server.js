@@ -8,6 +8,7 @@ const fs = require('fs');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const chalk = require('chalk');
+const { match } = require('assert');
 
 app.use(express.static('public'));
 app.use(express.json());
@@ -17,6 +18,11 @@ app.get('/dados.json', (req, res) => {
 });
 
 const sites = [];
+
+const pastaImagens = path.join(__dirname, 'public', 'imagens')
+if (!fs.existsSync(pastaImagens)) {
+  fs.mkdirSync(pastaImagens, { recursive: true })
+}
 
 app.post('/adicionar-site', async (req, res) => {
   const { url } = req.body;
@@ -105,6 +111,7 @@ async function crawler(url) {
     const links = [];
     const imagens = [];
 
+    // Captura de links
     $('a').each((index, element) => {
       const texto = $(element).text();
       const href = $(element).attr('href');
@@ -118,34 +125,80 @@ async function crawler(url) {
       }
     });
 
-    $('img').each((_, el) => {
+    const imagem = $('img').map(async (_, el)=> {
+      let src = $(el).attr('src')
+      if (!src) return null
+      
+        const dominio = new URL (url).origin
+        if (src.startsWith('/')) src = dominio + src
+        else if (!src.startsWith('http')) src = `${dominio}/${src}`
+
+        const extensao = path.extname(new URL(src).pathname).aplit('?')[0] || '.jpg'
+        const nomeArquivo = `${Date.now()}-${match.floor(Math.random() * 10000)} ${extensao}`
+        const caminhoLocal = await baixarImagem(src, nomeArquivo)
+
+        if (caminhoLocal) {
+          return {
+
+            site: url,
+            tipo: 'img',
+            href: caminhoLocal, 
+            text: ''
+
+          }
+        }
+
+        return null
+
+    }).get()
+
+    const imagensBaixadas = (await Promise.all(imagem)).filter(Boolean)
+
+    const todos = [...links, ...imagensBaixadas]
+
+    //salvar no arquivo json
+
+    const caminhoJSON = path.join(__dirname, 'dados.json')
+    let dadosExistentes = []
+    if (fs.existsSync(caminhoJSON)) {
+      const raw = fs.readFileSync(caminhoJSON, 'utf-8')
+      dadosExistentes = JSON.parse(raw)
+    }
+
+    dadosExistentes.push(...todos)
+    fs.writeFileSync(caminhoJSON, JSON.stringify(dadosExistentes, null, 2))
+
+    // Captura de imagens
+   /* const imagem =$('img').each((_, el) => {
       let src = $(el).attr('src');
-      if (src && !src.startsWith('http')) 
-        
-        {
+      if (!src ) {
         const base = new URL(url);
         src = new URL(src, base).href;
       }
       const alt = $(el).attr('alt') || '';
 
-
       if (src && src.startsWith('http')) {
+        imagens.push({
+          site: url,
+          href: src,
+          texto: alt
+        });
+
+        // Adiciona também na lista de links, se necessário
         links.push({
-            site: url,
-            href: src,
-            texto: 'Imagem',
-            tipo: 'img'
-        })
-    }
-});
+          site: url,
+          href: src,
+          texto: 'Imagem',
+          tipo: 'img'
+        });
+      }
+    });*/
 
     const resultado = {
       titulo: title,
       site: url,
-      totalLinks: links.length,
-      totalImagens: imagens.length,
-      links: links,
-      imagens: imagens
+      totalLinks: todos.length,
+      links: todos
     };
 
     console.log(chalk.green(`✅ ${links.length} links e ${imagens.length} imagens encontrados em ${url}`));
@@ -156,6 +209,7 @@ async function crawler(url) {
     return null;
   }
 }
+
 
 async function iniciarCrawler() {
   const todos_os_links = [];
@@ -184,8 +238,8 @@ async function iniciarCrawler() {
     await delay(2000);
   }
 
-  const setDeLinks = new Set();
   const linksUnicos = [];
+  const setDeLinks = new Set();
 
   for (let link of todos_os_links) {
     const chave = `${link.site}|${link.href}`;
@@ -198,6 +252,38 @@ async function iniciarCrawler() {
   fs.writeFileSync('dados.json', JSON.stringify(linksUnicos, null, 2), 'utf-8');
   console.log(chalk.green('\n✅ Todos os dados foram salvos em dados.json'));
 }
+
+async function baixarImagem(urlImagem, nomeArquivo) {
+  const caminhoCompleto = path.join(pastaImagens, nomeArquivo)
+
+  try {
+    const response = await axios({
+        method: 'GET',
+        url: urlImagem,
+        responseType: 'stream',
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+        }
+    })
+
+    await new Promise((resolve, reject) => {
+        const writer = fs.createWriteStream(caminhoCompleto)
+        response.data.pipe(writer)
+        writer.on('finish', resolve)
+        writer.on('error', reject)
+    })
+
+    return `/imagens/${nomeArquivo}`
+} catch (error) {
+    console.error(chalk.red(`Erro ao baixar a imagem ${urlImagem}: ${error.message}`))
+    if (error.response) {
+        console.error(`Status: ${error.response.status}`)
+        console.error(`Resposta: ${error.response.data}`)
+    }
+}
+}
+
+
 
 app.listen(port, () => {
   console.log(`Servidor rodando em http://localhost:${port}`);

@@ -17,10 +17,10 @@
     <section class="form-section">
       <h2>Adicionar Novo Site</h2>
       <form id="siteForm">
-        <input type="text" id="input-url" placeholder="Digite a URL..." required />
+        <input type="url" id="input-url" placeholder="Digite a URL..." required />
         <div class="buttons">
           <button type="button" id="botao-enviar" onclick="enviarUrl()">Enviar</button>
-          <button type="button" onclick="mostrarDados()">📂 Ver Dados</button>
+          <button type="button" onclick="mostrarDados()">📂 Ver Todos os Dados</button>
           <button type="button" onclick="fecharDados()">❌ Fechar</button>
         </div>
       </form>
@@ -29,17 +29,19 @@
     <!-- Seção de exibição de links agrupados -->
     <section id="conteudo"></section>
 
+    <!-- Seção para selecionar um site e exibir seus links -->
     <div class="links-section">
+      <h2>Visualizar Links por Site</h2>
       <label for="selectSites">Escolha um site:</label><br><br>
-      <select id="selectSites" class="seletorDeSites" onchange="if(this.value) window.open(this.value, '_blank');">
+      <select id="selectSites">
         <option value="">Escolha um site</option>
-        <option value="https://www.youtube.com/results?search_query=asas+morenas+jesus+o+nazareno">YouTube</option>
-        <option value="https://github.com/kaua-debug/crawler-js/blob/main/server.js">GitHub</option>
-        <option value="https://www.google.com/search?q=youtube">Google Search</option>
-        <option value="https://www.w3schools.com/tags/tag_option.asp">W3Schools</option>
       </select>
-    </div>
+      <br><br>
+      <button type="button" onclick="mostrarLinksPorSites()">Mostrar Links do Site</button>
 
+      <!-- Aqui os links/imagens filtrados serão exibidos -->
+      <ul id="linksColetados"></ul>
+    </div>
   </main>
 
   <footer>
