@@ -1,19 +1,14 @@
 
-function fecharDados() {
-    const divConteudo = document.getElementById('conteudo')
-    divConteudo.textContent = ''
-}
-
 function enviarUrl() {
 
     const input = document.getElementById('novaUrl')
     const url = input.value.trim()
-
+    
     if (!url) {
         alert("Por favor, isira uma url valida")
         return
     }
-
+    
     fetch('/adicionar-site', { 
         method: 'POST',
         headers: {
@@ -48,7 +43,7 @@ function mostrarDados() {
             const conteudo = document.getElementById('conteudo')
             conteudo.innerHTML = ''
             const porSite = {}
-
+            
             // Agrupar links por site
             dados.forEach(item => {
                 if (!porSite[item.site]) porSite[item.site] = []
@@ -83,11 +78,11 @@ function mostrarDados() {
             })
             conteudo.appendChild(bloco)
         })
-     })
-        .catch(err => {
-            document.getElementById('conteudo').innerHTML = 'Erro ao carregar os dados'
-            console.error(err)
-        })
+    })
+    .catch(err => {
+        document.getElementById('conteudo').innerHTML = 'Erro ao carregar os dados'
+        console.error(err)
+    })
 }
 
 let todosOsDados = []
@@ -103,8 +98,14 @@ window.addEventListener('DOMContentLoaded', () => {
         .catch(err => {
             console.error(err)
         })
-})
-
+    })
+    
+    
+    function fecharDados() {
+        const divConteudo = document.getElementById('conteudo')
+        divConteudo.textContent = ''
+    }
+    
 function preencherSeletorDeSites() {
     const seletor = document.getElementById('SeletorDeSites')
     const sitesUnicos = [...new Set(todosOsDados.map(item => item.site))]
