@@ -1,0 +1,2732 @@
+{
+  "titulo": "ge.globo - É esporte sempre",
+  "site": "https://ge.globo.com/",
+  "totalLinks": 454,
+  "links": [
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/atletico-mg/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/ba/futebol/times/bahia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/botafogo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/ce/futebol/times/ceara/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/corinthians/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/cruzeiro/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/flamengo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/fluminense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/ce/futebol/times/fortaleza/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rs/futebol/times/gremio/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rs/futebol/times/internacional/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rs/futebol/times/juventude/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/tem-esporte/futebol/times/mirassol/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/palmeiras/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/sao-paulo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pe/futebol/times/sport/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/vasco/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/ba/futebol/times/vitoria/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/am/futebol/times/amazonas-fc/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/america-mg/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/times/athletic-club/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pr/futebol/times/athletico-pr/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/go/futebol/times/atletico-go/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sc/futebol/times/avai/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/botafogo-sp/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sc/futebol/times/chapecoense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pr/futebol/times/coritiba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/al/futebol/times/crb/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sc/futebol/times/criciuma/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/mt/futebol/times/cuiaba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/ferroviaria/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/go/futebol/times/goias/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/sp/tem-esporte/futebol/times/novorizontino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pr/futebol/times/operario-pr/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pa/futebol/times/paysandu/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/pa/futebol/times/remo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/go/futebol/times/vila-nova/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/times/volta-redonda/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/arsenal/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/equipe/futebol/futebol-internacional/futebol-ingles/aston-villa.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/atletico-de-madrid/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/barcelona/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/times/bayer-leverkusen/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/times/bayern-de-munique/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-portugues/times/benfica/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/times/borussia-dortmund/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/chelsea/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/girona/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/times/internazionale/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/times/juventus/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/liverpool/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/manchester-city/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/manchester-united/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/times/milan/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/times/paris-saint-germain/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-portugues/times/sporting/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/times/tottenham/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Sim",
+      "href": "#"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Não",
+      "href": "#"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "#"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Jorginho assina pré-contrato com o Flamengo, diz Joanna de Assis",
+      "href": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/05/05/jorginho-assina-pre-contrato-com-o-flamengo-diz-joanna-de-assis.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/times/flamengo/noticia/2025/05/05/jorginho-assina-pre-contrato-com-o-flamengo-diz-joanna-de-assis.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Suposto segundo uniforme do Internacional vaza; veja imagens",
+      "href": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2025/05/05/segundo-uniforme-do-internacional-vaza-veja-imagens.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2025/05/05/segundo-uniforme-do-internacional-vaza-veja-imagens.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Torcedor do Liverpool queima camisa de Alexander-Arnold após anúncio de saída; vídeo",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2025/05/05/torcedor-do-liverpool-queima-camisa-de-alexander-arnold-apos-anuncio-de-saida-video.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2025/05/05/torcedor-do-liverpool-queima-camisa-de-alexander-arnold-apos-anuncio-de-saida-video.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Veja como está a briga por vagas na Champions no top-5 europeu",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/noticia/2025/05/05/veja-como-esta-a-briga-por-vagas-na-champions-no-top-5-europeu-a-poucos-dias-do-fim-da-temporada.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Ídolo do Fenerbahçe pede saída de Mourinho: \"Péssimo treinador\"",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/noticia/2025/05/05/idolo-do-fenerbahce-pede-saida-de-mourinho-pessimo-treinador.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Lewa será banco contra Inter: \"Quando precisarmos, recorreremos a ele\"",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2025/05/05/flick-confirma-lewandowski-no-banco-do-barcelona-contra-a-inter-quando-precisarmos-recorreremos-a-ele.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Harry Kane celebra primeiro título da carreira: \"É simplesmente maravilhoso\"",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/noticia/2025/05/05/harry-kane-celebra-primeiro-titulo-da-carreira-e-simplesmente-maravilhoso.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/noticia/2025/05/05/harry-kane-celebra-primeiro-titulo-da-carreira-e-simplesmente-maravilhoso.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Marca de patrocinador descola de camisas do Grêmio durante jogo; veja imagens",
+      "href": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/05/05/marca-de-patrocinador-descola-de-camisa-do-gremio-durante-jogo-veja-imagens.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2025/05/05/marca-de-patrocinador-descola-de-camisa-do-gremio-durante-jogo-veja-imagens.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Allano se manifesta: \"Não vou me calar\"",
+      "href": "https://ge.globo.com/pr/futebol/times/operario-pr/noticia/2025/05/05/allano-do-operario-pr-fala-sobre-injuria-racial-e-prisao-de-meia-do-america-mg-nao-vou-me-calar.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Veja mais",
+      "href": "https://ge.globo.com/index/feed/pagina-4.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "",
+      "href": "http://globoesporte.globo.com"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "agenda",
+      "href": "/agenda"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabelas",
+      "href": "/tabelas"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "princípios editoriais",
+      "href": "http://g1.globo.com/principios-editoriais-do-grupo-globo.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "política de privacidade",
+      "href": "//www.globo.com/privacidade.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "minha conta",
+      "href": "https://minhaconta.globo.com"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "anuncie conosco",
+      "href": "http://www.globo.com/Portal/anuncie/glb_anuncie_panfleto"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-a/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "agenda",
+      "href": "https://ge.globo.com/agenda/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabelas",
+      "href": "https://interativos.globoesporte.globo.com/tabelas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão série a",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-a/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do brasil",
+      "href": "https://ge.globo.com/futebol/copa-do-brasil/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão feminino",
+      "href": "https://ge.globo.com/futebol/brasileiro-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão série b",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-b/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão série c",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-c/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão série d",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-d/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão sub-20",
+      "href": "https://ge.globo.com/futebol/brasileirao-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão b sub-20",
+      "href": "https://ge.globo.com/futebol/brasileirao-serie-b-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão sub-17",
+      "href": "https://ge.globo.com/futebol/brasileirao-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do brasil sub-17",
+      "href": "https://ge.globo.com/futebol/copa-do-brasil-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão feminino a2",
+      "href": "https://ge.globo.com/futebol/brasileiro-feminino-serie-a2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasileirão feminino a3",
+      "href": "https://ge.globo.com/futebol/futebol-feminino/brasileiro-feminino-serie-a3/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "supercopa rei do brasil",
+      "href": "https://ge.globo.com/futebol/supercopa-do-brasil/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "supercopa feminina",
+      "href": "https://ge.globo.com/futebol/futebol-feminino/supercopa-do-brasil-feminina/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa sp de futebol jr",
+      "href": "https://ge.globo.com/futebol/copa-sp-de-futebol-junior/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do brasil sub-20",
+      "href": "https://ge.globo.com/futebol/copa-do-brasil-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "libertadores",
+      "href": "https://ge.globo.com/futebol/libertadores/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa sul-americana",
+      "href": "https://ge.globo.com/futebol/copa-sul-americana/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul-americano fem sub-17",
+      "href": "https://ge.globo.com/futebol/futebol-feminino/sul-americano-feminino-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "champions league",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga europa",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-europa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga conferência",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-conferencia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "premier league",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da liga inglesa",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/copa-da-liga-inglesa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da inglaterra",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/copa-da-inglaterra/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "la liga",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do rei",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/copa-do-rei-da-espanha/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol italiano",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da itália",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/copa-da-italia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "bundesliga",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da alemanha",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/copa-da-alemanha/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol francês",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da frança",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/copa-da-franca/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol saudita",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/futebol-saudita/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga dos campeões da ásia",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes-da-asia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa intercontinental",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-intercontinental/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - américa do sul",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-america-do-sul/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga das nações",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - europa",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-europa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - áfrica",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-africa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - ásia",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-asia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - oceania",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-oceania/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - concacaf",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-america-do-norte-e-central/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias - repescagem mundial",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-repescagem-mundial/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "libertadores sub-20",
+      "href": "https://ge.globo.com/futebol/libertadores-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mundial de clubes",
+      "href": "https://ge.globo.com/futebol/mundial-de-clubes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mundial sub-20",
+      "href": "https://ge.globo.com/futebol/mundial-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mundial sub-17",
+      "href": "https://ge.globo.com/futebol/mundial-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul-americano sub-20",
+      "href": "https://ge.globo.com/futebol/sul-americano-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul-americano sub-17",
+      "href": "https://ge.globo.com/futebol/sul-americano-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo feminina",
+      "href": "https://ge.globo.com/futebol/copa-do-mundo-feminina/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo fem sub-20",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-do-mundo-feminina-sub-20/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo fem sub-17",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-do-mundo-feminina-sub-17/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "libertadores feminina",
+      "href": "https://ge.globo.com/futebol/libertadores-feminina/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasil ladies cup",
+      "href": "https://ge.globo.com/futebol/futebol-feminino/brasil-ladies-cup/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa ouro feminina",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-ouro-feminina/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa américa",
+      "href": "https://ge.globo.com/futebol/copa-america/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eurocopa",
+      "href": "https://ge.globo.com/futebol/eurocopa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eliminatórias euro",
+      "href": "https://ge.globo.com/futebol/eliminatorias-da-eurocopa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa africana de nações",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-africana-de-nacoes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa da ásia",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/copa-da-asia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pré-copa do nordeste",
+      "href": "https://ge.globo.com/futebol/pre-copa-do-nordeste/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do nordeste",
+      "href": "https://ge.globo.com/futebol/copa-do-nordeste/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa verde",
+      "href": "https://ge.globo.com/futebol/copa-verde/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "acreano",
+      "href": "https://ge.globo.com/ac/futebol/campeonato-acreano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "alagoano",
+      "href": "https://ge.globo.com/al/futebol/campeonato-alagoano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa alagoas",
+      "href": "https://ge.globo.com/al/futebol/copa-alagoas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "amapaense",
+      "href": "https://ge.globo.com/ap/futebol/campeonato-amapaense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "amazonense",
+      "href": "https://ge.globo.com/am/futebol/campeonato-amazonense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "baiano",
+      "href": "https://ge.globo.com/ba/futebol/campeonato-baiano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "brasiliense",
+      "href": "https://ge.globo.com/df/futebol/campeonato-brasiliense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "capixaba",
+      "href": "https://ge.globo.com/es/futebol/campeonato-capixaba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "carioca",
+      "href": "https://ge.globo.com/rj/futebol/campeonato-carioca/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "carioca a2",
+      "href": "https://ge.globo.com/rj/futebol/carioca-serie-a2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "catarinense",
+      "href": "https://ge.globo.com/sc/futebol/campeonato-catarinense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "catarinense 2ª divisão",
+      "href": "https://ge.globo.com/sc/futebol/catarinense-segunda-divisao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "cearense",
+      "href": "https://ge.globo.com/ce/futebol/campeonato-cearense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "gaúcho",
+      "href": "https://ge.globo.com/rs/futebol/campeonato-gaucho/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "goiano",
+      "href": "https://ge.globo.com/go/futebol/campeonato-goiano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "maranhense",
+      "href": "https://ge.globo.com/ma/futebol/campeonato-maranhense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mato-grossense",
+      "href": "https://ge.globo.com/mt/futebol/campeonato-mato-grossense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mineiro",
+      "href": "https://ge.globo.com/mg/futebol/campeonato-mineiro/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mineiro módulo 2",
+      "href": "https://ge.globo.com/mg/futebol/mineiro-modulo-2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mineiro 2ª divisão",
+      "href": "https://ge.globo.com/mg/futebol/mineiro-segunda-divisao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paraense",
+      "href": "https://ge.globo.com/pa/futebol/campeonato-paraense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paraibano",
+      "href": "https://ge.globo.com/pb/futebol/campeonato-paraibano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paranaense",
+      "href": "https://ge.globo.com/pr/futebol/campeonato-paranaense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paranaense 2ª divisão",
+      "href": "https://ge.globo.com/pr/futebol/paranaense-serie-b/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista",
+      "href": "https://ge.globo.com/sp/futebol/campeonato-paulista/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista a2",
+      "href": "https://ge.globo.com/sp/futebol/paulista-serie-a2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista a3",
+      "href": "https://ge.globo.com/sp/futebol/paulista-serie-a3/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista a4",
+      "href": "https://ge.globo.com/sp/futebol/paulista-serie-a4/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista feminino",
+      "href": "https://ge.globo.com/sp/futebol/paulista-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paulista 2ª divisão",
+      "href": "https://ge.globo.com/sp/futebol/paulista-segunda-divisao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa paulista",
+      "href": "https://ge.globo.com/sp/futebol/copa-paulista/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pernambucano",
+      "href": "https://ge.globo.com/pe/futebol/campeonato-pernambucano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pernambucano a2",
+      "href": "https://ge.globo.com/pe/futebol/pernambucano-serie-a2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pernambucano a3",
+      "href": "https://ge.globo.com/pe/futebol/pernambucano-serie-a3/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "piauiense",
+      "href": "https://ge.globo.com/pi/futebol/campeonato-piauiense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "potiguar",
+      "href": "https://ge.globo.com/rn/futebol/campeonato-potiguar/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rondoniense",
+      "href": "https://ge.globo.com/ro/futebol/campeonato-rondoniense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "roraimense",
+      "href": "https://ge.globo.com/rr/futebol/campeonato-roraimense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sergipano",
+      "href": "https://ge.globo.com/se/futebol/campeonato-sergipano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul-mato-grossense",
+      "href": "https://ge.globo.com/ms/futebol/campeonato-sul-mato-grossense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tocantinense",
+      "href": "https://ge.globo.com/to/futebol/campeonato-tocantinense/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rotatividade dos técnicos",
+      "href": "https://ge.globo.com/rotatividade"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "todas as tabelas",
+      "href": "https://ge.globo.com/futebol/campeonato/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol internacional",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/futebol/futebol-internacional/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "seleção brasileira",
+      "href": "https://ge.globo.com/futebol/selecao-brasileira/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vídeos",
+      "href": "https://ge.globo.com/videos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Gato Mestre",
+      "href": "https://ge.globo.com/gato-mestre/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Página Principal",
+      "href": "https://ge.globo.com/gato-mestre/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Estatísticas",
+      "href": "https://ge.globo.com/gato-mestre/estatisticas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Análises",
+      "href": "https://ge.globo.com/gato-mestre/analises/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Dicas",
+      "href": "https://ge.globo.com/gato-mestre/dicas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Assistente de escalação",
+      "href": "https://gatomestre.ge.globo.com/assistente-de-escalacao"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Painel Gato Mestre",
+      "href": "https://gatomestre.ge.globo.com/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "parceiros",
+      "href": "https://ge.globo.com/parceiros/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "espião estatístico",
+      "href": "https://ge.globo.com/espiao-estatistico/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "central de palpites",
+      "href": "https://ge.globo.com/central-de-palpites/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "cartola",
+      "href": "https://ge.globo.com/cartola-fc/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/cartola-fc/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "escale seu time",
+      "href": "https://cartola.globo.com/#!/antessala"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "seja PRO",
+      "href": "https://vitrine.globo.com/cartola?utm_source=cartola&utm_medium=editoria&utm_campaign=c2025_1_cartola_conversoes&utm_term=home-cartola&utm_content=MEN_edit-cart-25&origemId=93717"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "betano cartola",
+      "href": "https://ge.globo.com/cartola/ep/betano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "craque betano",
+      "href": "https://ge.globo.com/ep/craque-betano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "como jogar cartola",
+      "href": "https://ge.globo.com/cartola/tutoriais/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "dicas da rodada",
+      "href": "https://ge.globo.com/cartola/dicas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "dicas do gato mestre",
+      "href": "https://gatomestre.ge.globo.com/cartola/gato-mestre/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "estatísticas do gato mestre",
+      "href": "https://gatomestre.ge.globo.com/pre-temporada-2024/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vídeos",
+      "href": "https://ge.globo.com/cartola/videos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Seja Cartoleiro PRO",
+      "href": "https://vitrine.globo.com/cartola?utm_source=ge&utm_medium=menu&utm_campaign=c2025_1_cartola_conversoes&utm_term=ge&utm_content=menuge&origemId=93872"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "baixe o app ge",
+      "href": "https://interativos.ge.globo.com/app-ge/especial/app-ge"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "seleção brasileira",
+      "href": "https://ge.globo.com/futebol/selecao-brasileira/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vôlei",
+      "href": "https://ge.globo.com/volei/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/volei/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/#/mais-esportes"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela superliga masculina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2024-2025/tabela-da-superliga-masculina-de-volei-202425"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela superliga feminina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2024-2025/tabela-da-superliga-feminina-de-volei-2024-25"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga das nações feminina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2025/tabela-liga-das-nacoes-de-volei-feminino-2025"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "liga das nações masculina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2025/tabela-liga-das-nacoes-de-volei-masculino-2025"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "basquete",
+      "href": "https://ge.globo.com/basquete/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/basquete/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nba",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela",
+      "href": "https://ge.globo.com/basquete/nba/classificacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/#/mais-esportes"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "podcast ponte aérea",
+      "href": "https://interativos.ge.globo.com/podcasts/programa/ponte-aerea/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nbb",
+      "href": "https://ge.globo.com/basquete/nbb/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "lbf",
+      "href": "https://ge.globo.com/basquete/lbf/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "champions league das américas",
+      "href": "https://ge.globo.com/basquete/champions-league-americas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa super 8",
+      "href": "https://ge.globo.com/basquete/copa-super-8/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo masculina",
+      "href": "https://ge.globo.com/basquete/copa-do-mundo-de-basquete-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pré-olímpico masculino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/pre-olimpico-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pré-olímpico feminino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/pre-olimpico-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nba",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela",
+      "href": "https://ge.globo.com/basquete/nba/classificacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/#/mais-esportes"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "podcast ponte aérea",
+      "href": "https://interativos.globoesporte.globo.com/podcasts/programa/ponte-aerea/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tênis",
+      "href": "https://ge.globo.com/tenis/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "surfe",
+      "href": "https://ge.globo.com/surfe/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/surfe/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ranking wsl",
+      "href": "https://ge.globo.com/surfe/wsl/noticia/2025/02/08/wsl-2025-veja-o-ranking-do-circuito-mundial-de-surfe.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "wsl",
+      "href": "https://ge.globo.com/surfe/wsl/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "olimpiadas",
+      "href": "https://ge.globo.com/olimpiadas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/olimpiadas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "quadro de medalhas",
+      "href": "https://ge.globo.com/olimpiadas/quadro-de-medalhas-olimpiadas-paris-2024/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "agenda olímpica",
+      "href": "https://ge.globo.com/olimpiadas/agenda-olimpica/#/olimpiadas"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol feminino",
+      "href": "https://ge.globo.com/olimpiadas/futebol-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol masculino",
+      "href": "https://ge.globo.com/olimpiadas/olimpiadas-futebol-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vôlei feminino",
+      "href": "https://interativos.ge.globo.com/olimpiadas/tabela/2024/tabela-volei-feminino"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vôlei masculino",
+      "href": "https://interativos.ge.globo.com/olimpiadas/tabela/2024/tabela-volei-masculino"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "basquete masculino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/basquete-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "basquete feminino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/basquete-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "handebol feminino",
+      "href": "https://ge.globo.com/olimpiadas/handebol-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "handebol masculino",
+      "href": "https://ge.globo.com/olimpiadas/handebol-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "classificação Paris 2024",
+      "href": "https://ge.globo.com/olimpiadas/noticia/2023/03/14/paris-2024-veja-classificacao-de-cada-esporte-para-as-olimpiadas.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "olympic channel",
+      "href": "https://globoesporte.globo.com/olympicchannel/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paralimpíadas",
+      "href": "https://ge.globo.com/paralimpiadas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos pan-americanos",
+      "href": "https://ge.globo.com/jogos-pan-americanos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "parapan",
+      "href": "https://ge.globo.com/parapan/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "olimpíadas de inverno",
+      "href": "https://ge.globo.com/olimpiadas-de-inverno/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paralimpíadas de inverno",
+      "href": "https://ge.globo.com/paralimpiadas-de-inverno/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "combate",
+      "href": "https://ge.globo.com/combate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "notícias",
+      "href": "https://ge.globo.com/combate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "assista agora",
+      "href": "https://ge.globo.com/combate/canal-combate-24h/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "assine",
+      "href": "https://combate.globo.com/assine?origemId=226"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vídeos",
+      "href": "https://ge.globo.com/combate/video/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "programação",
+      "href": "https://globosatplay.globo.com/combate/programacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ativar dispositivo",
+      "href": "https://login.globo.com/6753#/device/activate"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "gerenciar conta família",
+      "href": "https://ge.globo.com/combate/conta-familia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ajuda",
+      "href": "https://ge.globo.com/combate/ajuda/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "premiere",
+      "href": "https://ge.globo.com/premiere/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "assista agora",
+      "href": "https://ge.globo.com/premiere/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ajude seu time",
+      "href": "https://ge.globo.com/premiere/ajude-seu-time/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "programação",
+      "href": "https://globosatplay.globo.com/premierefc/programacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "central de ajuda",
+      "href": "https://ge.globo.com/premiere/ajuda/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ativar dispositivo",
+      "href": "https://login.globo.com/6760#/device/activate?glbproduct=UA-296593-9&_ga=2.116252614.1170566327.1561921401-1024013276.1548752537"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "gerenciar conta família",
+      "href": "https://ge.globo.com/premiere/conta-familia/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "termo de uso",
+      "href": "https://login.globo.com/termosUso/6760"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "fórmula 1",
+      "href": "https://ge.globo.com/motor/formula-1/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/motor/formula-1/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "calendário",
+      "href": "https://ge.globo.com/motor/formula-1/noticia/2024/04/12/f1-divulga-calendario-de-2025-com-24-etapas-e-gp-de-sao-paulo.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "classificação",
+      "href": "https://ge.globo.com/motor/formula-1/noticia/2025/03/16/f1-2025-tabela-de-classificacao-do-campeonato.ghtml"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nfl",
+      "href": "https://ge.globo.com/futebol-americano/nfl/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "principal",
+      "href": "https://ge.globo.com/futebol-americano/nfl/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/#/mais-esportes"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "esports",
+      "href": "https://ge.globo.com/esports/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/esports/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela cblol",
+      "href": "https://ge.globo.com/esports/lol/cblol/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "prêmio esports brasil",
+      "href": "https://ge.globo.com/esports/premio-esports-brasil/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "eu atleta",
+      "href": "https://ge.globo.com/eu-atleta"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/eu-atleta"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "corridas e eventos",
+      "href": "https://ge.globo.com/eu-atleta/corridas-e-eventos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "equipamentos e acessórios",
+      "href": "https://ge.globo.com/eu-atleta/equipamentos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nutrição",
+      "href": "https://ge.globo.com/eu-atleta/nutricao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "saúde",
+      "href": "https://ge.globo.com/eu-atleta/saude/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "treinos",
+      "href": "https://ge.globo.com/eu-atleta/treinos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "saúde mental",
+      "href": "https://ge.globo.com/eu-atleta/saude-mental/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "outros esportes",
+      "href": "https://ge.globo.com/outros-esportes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "atletismo",
+      "href": "https://ge.globo.com/atletismo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "basquete",
+      "href": "https://ge.globo.com/basquete/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/basquete/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogos de hoje",
+      "href": "https://ge.globo.com/agenda/#/mais-esportes"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nba",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/basquete/nba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "agenda",
+      "href": "https://pt.global.nba.com/schedule/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "classificação",
+      "href": "https://pt.global.nba.com/standings/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "estatísticas",
+      "href": "https://pt.global.nba.com/statistics/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "individual",
+      "href": "https://pt.global.nba.com/statistics/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "times",
+      "href": "https://pt.global.nba.com/statistics/teamstats/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "líderes da temporada",
+      "href": "https://pt.global.nba.com/statistics/leagueleaders/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "jogadores",
+      "href": "https://pt.global.nba.com/playerindex/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "placar",
+      "href": "https://pt.global.nba.com/scores/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "playoffs",
+      "href": "https://pt.global.nba.com/playoffpicture/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "times",
+      "href": "https://pt.global.nba.com/teamindex/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "podcast ponte aérea",
+      "href": "https://interativos.globoesporte.globo.com/podcasts/programa/ponte-aerea/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "nbb",
+      "href": "https://ge.globo.com/basquete/nbb/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "lbf",
+      "href": "https://ge.globo.com/basquete/lbf/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "champions league américas",
+      "href": "https://ge.globo.com/basquete/champions-league-americas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pré-olímpico masculino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/pre-olimpico-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pré-olímpico feminino",
+      "href": "https://ge.globo.com/olimpiadas/basquete/pre-olimpico-feminino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo masculina",
+      "href": "https://ge.globo.com/basquete/copa-do-mundo-de-basquete-masculino/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa super 8",
+      "href": "https://ge.globo.com/basquete/copa-super-8/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futebol americano",
+      "href": "https://ge.globo.com/futebol-americano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/futebol-americano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "podcast primeira descida",
+      "href": "https://interativos.globoesporte.globo.com/podcasts/programa/primeira-descida"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "futsal",
+      "href": "https://ge.globo.com/futsal/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/futsal/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "lnf",
+      "href": "https://ge.globo.com/futsal/liga-nacional-de-futsal/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ginástica artística",
+      "href": "https://ge.globo.com/ginastica-artistica/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/ginastica-artistica/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "copa do mundo de ginástica",
+      "href": "http://sportv.globo.com/site/eventos/copa-do-mundo-de-ginastica/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "judô",
+      "href": "https://ge.globo.com/judo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mma",
+      "href": "http://sportv.globo.com/site/combate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "http://sportv.globo.com/site/combate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "combate play",
+      "href": "https://ge.globo.com/combate/canal-combate-24h/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "motor",
+      "href": "https://ge.globo.com/motor/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/motor/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "fórmula 1",
+      "href": "https://ge.globo.com/motor/formula-1/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/motor/formula-1/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "classificação e calendário",
+      "href": "https://interativos.globoesporte.globo.com/motor/formula-1/classificacao/f1-2021"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "fórmula 2",
+      "href": "https://ge.globo.com/motor/formula-2/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "fórmula e",
+      "href": "https://ge.globo.com/motor/formula-e/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "motovelocidade",
+      "href": "https://ge.globo.com/motor/motovelocidade/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "stock car",
+      "href": "https://ge.globo.com/motor/stock-car/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "w series",
+      "href": "https://ge.globo.com/motor/w-series/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "natação",
+      "href": "https://ge.globo.com/natacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "skate",
+      "href": "https://ge.globo.com/skate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/skate/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "STU",
+      "href": "https://ge.globo.com/skate/stu/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "surfe",
+      "href": "https://ge.globo.com/radicais/surfe/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tênis",
+      "href": "https://ge.globo.com/tenis/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/tenis/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rio open",
+      "href": "https://ge.globo.com/tenis/rio-open/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vôlei",
+      "href": "https://ge.globo.com/volei/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/volei/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela superliga masculina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2022-2023/superliga-masculina"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tabela superliga feminina",
+      "href": "https://interativos.ge.globo.com/volei/tabela/2022-2023/superliga-feminina"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "podcasts",
+      "href": "https://ge.globo.com/podcasts/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "poker",
+      "href": "https://ge.globo.com/outros-esportes/poker/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "globo esporte",
+      "href": "https://globoplay.globo.com/globo-esporte/t/HzHGwGKjvW/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "esporte espetacular",
+      "href": "https://ge.globo.com/programas/esporte-espetacular/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "segue o jogo",
+      "href": "https://ge.globo.com/programas/segue-o-jogo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "verão espetacular",
+      "href": "https://ge.globo.com/programas/verao-espetacular/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sportv",
+      "href": "http://sportv.globo.com/site/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "http://sportv.globo.com/site/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "bem, amigos!",
+      "href": "http://sportv.globo.com/site/programas/bem-amigos/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "boleiragem",
+      "href": "https://sportv.globo.com/site/programas/boleiragem/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "grande círculo",
+      "href": "https://sportv.globo.com/site/programas/grande-circulo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "hello la",
+      "href": "https://ge.globo.com/hellola/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "redação sportv",
+      "href": "http://sportv.globo.com/site/programas/redacao-sportv/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "seleção sportv",
+      "href": "http://sportv.globo.com/site/programas/selecao-sportv/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sportv news",
+      "href": "http://sportv.globo.com/site/programas/sportv-news/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tá na área",
+      "href": "http://sportv.globo.com/site/programas/ta-na-area/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "troca de passes",
+      "href": "http://sportv.globo.com/site/programas/troca-de-passes/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "programação",
+      "href": "http://sportv.globo.com/site/programacao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "combate",
+      "href": "https://ge.globo.com/combate/canal-combate-24h/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "assista agora",
+      "href": "https://ge.globo.com/combate/canal-combate-24h/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "programação",
+      "href": "http://sportv.globo.com/site/combate/programacao.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "assine",
+      "href": "http://especiais.combate.globo.com/como-assistir/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "premiere",
+      "href": "https://globosatplay.globo.com/premierefc/ao-vivo/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "distrito federal",
+      "href": "https://ge.globo.com/df/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "goiás",
+      "href": "https://ge.globo.com/go/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mato grosso",
+      "href": "https://ge.globo.com/mt/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mato grosso do sul",
+      "href": "https://ge.globo.com/ms/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "alagoas",
+      "href": "https://ge.globo.com/al/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "bahia",
+      "href": "https://ge.globo.com/ba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ceará",
+      "href": "https://ge.globo.com/ce/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "maranhão",
+      "href": "https://ge.globo.com/ma/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paraíba",
+      "href": "https://ge.globo.com/pb/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pernambuco",
+      "href": "https://ge.globo.com/pe/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/pe/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "caruaru e região",
+      "href": "https://ge.globo.com/pe/caruaru-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "petrolina e região",
+      "href": "https://ge.globo.com/pe/petrolina-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "piauí",
+      "href": "https://ge.globo.com/pi/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rio grande do norte",
+      "href": "https://ge.globo.com/rn/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sergipe",
+      "href": "https://ge.globo.com/se/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "acre",
+      "href": "https://ge.globo.com/ac/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "amapá",
+      "href": "https://ge.globo.com/ap/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "amazonas",
+      "href": "https://ge.globo.com/am/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "pará",
+      "href": "https://ge.globo.com/pa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/pa/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "santarém e região",
+      "href": "https://ge.globo.com/pa/santarem-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rondônia",
+      "href": "https://ge.globo.com/ro/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "roraima",
+      "href": "https://ge.globo.com/rr/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "tocantins",
+      "href": "https://ge.globo.com/to/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "espírito santo",
+      "href": "https://ge.globo.com/es/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "minas gerais",
+      "href": "https://ge.globo.com/mg/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/mg/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "grande minas e vales",
+      "href": "https://ge.globo.com/mg/grande-minas-vales/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul de minas",
+      "href": "https://ge.globo.com/mg/sul-de-minas/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "triângulo e alto paranaíba",
+      "href": "https://ge.globo.com/mg/triangulo-mineiro/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "zona da mata e centro-oeste",
+      "href": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rio de janeiro",
+      "href": "https://ge.globo.com/rj/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/rj/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "serra, lagos e norte",
+      "href": "https://ge.globo.com/rj/serra-lagos-norte/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sul e costa verde",
+      "href": "https://ge.globo.com/rj/sul-do-rio-costa-verde/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "são paulo",
+      "href": "https://ge.globo.com/sp/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "página principal",
+      "href": "https://ge.globo.com/sp/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "bauru, itapetininga, rio preto e sorocaba",
+      "href": "https://ge.globo.com/sp/sorocaba/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "campinas e região",
+      "href": "https://ge.globo.com/sp/campinas-e-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "presidente prudente  e região",
+      "href": "https://ge.globo.com/sp/presidente-prudente-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "mogi e suzano",
+      "href": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "ribeirão preto e região",
+      "href": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "santos e região",
+      "href": "https://ge.globo.com/sp/santos-e-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "vale do paraíba e região",
+      "href": "https://ge.globo.com/sp/vale-do-paraiba-regiao/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "paraná",
+      "href": "https://ge.globo.com/pr/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "rio grande do sul",
+      "href": "https://ge.globo.com/rs/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "santa catarina",
+      "href": "https://ge.globo.com/sc/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "princípios editoriais",
+      "href": "http://g1.globo.com/principios-editoriais-do-grupo-globo.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "princípios editoriais",
+      "href": "http://g1.globo.com/principios-editoriais-do-grupo-globo.html"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "Acesse sua conta ou cadastre-se grátis",
+      "href": "#"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "grupo globo",
+      "href": "http://grupoglobo.globo.com/"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "link",
+      "texto": "sair da conta",
+      "href": "#"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920184-4590.jpg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920188-5287.jpeg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920190-6533.jpg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920192-5119.jpg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920193-101.jpg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920197-5945.jpg"
+    },
+    {
+      "site": "https://ge.globo.com/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746471920200-1194.jpg"
+    }
+  ],
+  "dataHoraLog": "05/05/2025 16:06"
+}

@@ -1,5 +1,3 @@
-//window
-
 const express = require('express');
 const app = express();
 const port = 3001;
@@ -14,7 +12,12 @@ app.use(express.json());
 
 // Rota para servir o arquivo JSON
 app.get('/dados.json', (req, res) => {
-  res.sendFile(path.join(__dirname, 'dados.json'));
+  const caminhoJSON = path.join(__dirname, 'dados.json');
+  if (fs.existsSync(caminhoJSON)) {
+    res.sendFile(caminhoJSON);
+  } else {
+    res.status(404).json({ message: 'Arquivo dados.json não encontrado' });
+  }
 });
 
 // Verifica e cria pastas se não existirem

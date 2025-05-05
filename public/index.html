@@ -26,27 +26,22 @@
       </form>
     </section>
 
-        <section class="dados-section">
-          <h2>Sites Visitados</h2>
-          <div id="conteudo"></div>
-        </section>
+    <section class="dados-section">
+      <h2>Sites Visitados</h2>
+      <div id="conteudo"></div>
+    </section>
 
-        <section class="links-section">
+    <section class="links-section">
+      <select id="seletorDeSites" class="seletorDeSites" onchange="mostrarLinksPorSite()">
+        <option value="">Escolha um site</option>
+      </select>
+      <ul id="linksColetados"></ul>
 
-
-          <select
-           id="SeletorDeSites" 
-           class="SeletorDeSites" 
-           onchange="MostrarLinksPorSite()">
-            <option value="Escolha um site">Escolha um site</option>
-          </select>
-          <ul id="LinksColetados"></ul>
-
-          <select id="SeletorDeImagens" id="SeletorDeImagens" onchange="MostrarImagensPorSite()">
-            <option value="">Escolha um site</option>
-          </select>
-          <ul id="ImagensColetadas"></ul>
-        </section>
+      <select id="seletorDeImagens" onchange="mostrarImagensPorSite()">
+        <option value="">Escolha um site</option>
+      </select>
+      <ul id="imagensColetadas"></ul>
+    </section>
 
   </main>
 
