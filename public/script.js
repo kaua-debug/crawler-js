@@ -1,7 +1,3 @@
-//script.js
-function acessarDados() {
-    mostrarDados()
-}
 
 function fecharDados() {
     const divConteudo = document.getElementById('conteudo')
@@ -34,7 +30,7 @@ function enviarUrl() {
             .then(res => res.json())
             .then(dados => {
                 todosOsDados = dados
-                const seletor = document.getElementById('seletorDeSites')
+                const seletor = document.getElementById('SeletorDeSites')
                 seletor.innerHTML = '<option value = "">Escolha um site</option>' //limpar o select
                 preencherSeletorDeSites()
             })
@@ -60,39 +56,34 @@ function mostrarDados() {
             });
 
             // Criar blocos por site 
-            Object.entries(porSite).forEach(([site, links]) => {
-                const bloco = document.createElement('div')
-                bloco.className = 'site'
-
-                const titulo = document.createElement('h2')
-                titulo.innerText = site
-                bloco.appendChild(titulo)
-
-                links.forEach(link => {
-                    const linha = document.createElement('div')
-                    linha.className = 'link'
-
-                    if (link.tipo === 'img') { //verifica se é imagem ou se link no site visitado bb
-                        const img = document.createElement('img')
-                        img.src = link.href;
-                        img.alt = link.texto || 'Imagem';
-                        img.style.maxWidth = '200px';
-                        img.style.marginTop = '8px';
-                        linha.appendChild(img);
-                    } else {
-                        const a = document.createElement('a');
-                        a.href = link.href;
-                        a.target = '_blank';
-                        a.innerText = link.texto || link.href;
-                        linha.appendChild(a);
-                    }
-
-                    bloco.appendChild(linha)
-                })
-
-                conteudo.appendChild(bloco)
+        Object.entries(porSite).forEach(([site, links]) => {
+            const bloco = document.createElement('div')
+            bloco.className = 'site'
+            const titulo = document.createElement('h2')
+            titulo.innerText = site
+            bloco.appendChild(titulo)
+            links.forEach(link => {
+                const linha = document.createElement('div')
+                linha.className = 'link'
+                if (link.tipo === 'img') { //verifica se é imagem ou se link no site visitado bb
+                    const img = document.createElement('img')
+                    img.src = link.href;
+                    img.alt = link.texto || 'Imagem';
+                    img.style.maxWidth = '200px';
+                    img.style.marginTop = '8px';
+                    linha.appendChild(img);
+                } else {
+                    const a = document.createElement('a');
+                    a.href = link.href;
+                    a.target = '_blank';
+                    a.innerText = link.texto || link.href;
+                    linha.appendChild(a);
+                }
+                bloco.appendChild(linha)
             })
+            conteudo.appendChild(bloco)
         })
+     })
         .catch(err => {
             document.getElementById('conteudo').innerHTML = 'Erro ao carregar os dados'
             console.error(err)
@@ -115,7 +106,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 function preencherSeletorDeSites() {
-    const seletor = document.getElementById('seletorDeSites')
+    const seletor = document.getElementById('SeletorDeSites')
     const sitesUnicos = [...new Set(todosOsDados.map(item => item.site))]
 
     sitesUnicos.forEach(site => {

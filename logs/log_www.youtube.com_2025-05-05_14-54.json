@@ -1,0 +1,92 @@
+{
+  "titulo": "YouTube",
+  "site": "https://www.youtube.com/?app=desktop&hl=pt",
+  "totalLinks": 14,
+  "links": [
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "",
+      "href": "/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "",
+      "href": "/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Sobre",
+      "href": "https://www.youtube.com/about/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Imprensa",
+      "href": "https://www.youtube.com/about/press/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Direitos autorais",
+      "href": "https://www.youtube.com/about/copyright/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Entre em contato",
+      "href": "/t/contact_us/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Criadores de conteúdo",
+      "href": "https://www.youtube.com/creators/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Publicidade",
+      "href": "https://www.youtube.com/ads/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Desenvolvedores",
+      "href": "https://developers.google.com/youtube"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Termos",
+      "href": "/t/terms"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Privacidade",
+      "href": "/t/privacy"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Política e segurança",
+      "href": "https://www.youtube.com/about/policies/"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Como funciona o YouTube",
+      "href": "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen"
+    },
+    {
+      "site": "https://www.youtube.com/?app=desktop&hl=pt",
+      "tipo": "link",
+      "texto": "Testar os novos recursos",
+      "href": "/new"
+    }
+  ],
+  "dataHoraLog": "05/05/2025 14:54"
+}

@@ -26,22 +26,28 @@
       </form>
     </section>
 
-    <!-- Seção de exibição de links agrupados -->
-    <section id="conteudo"></section>
+        <section class="dados-section">
+          <h2>Sites Visitados</h2>
+          <div id="conteudo"></div>
+        </section>
 
-    <!-- Seção para selecionar um site e exibir seus links -->
-    <div class="links-section">
-      <h2>Visualizar Links por Site</h2>
-      <label for="selectSites">Escolha um site:</label><br><br>
-      <select id="seletorDeSites">
-        <option value=""></option>
-      </select>
-      <br><br>
-      <button type="button" onclick="mostrarLinksPorSite()">Mostrar Links do Site</button>
+        <section class="links-section">
 
-      <!-- Aqui os links/imagens filtrados serão exibidos -->
-      <ul id="linksColetados"></ul>
-    </div>
+
+          <select
+           id="SeletorDeSites" 
+           class="SeletorDeSites" 
+           onchange="MostrarLinksPorSite()">
+            <option value="Escolha um site">Escolha um site</option>
+          </select>
+          <ul id="LinksColetados"></ul>
+
+          <select id="SeletorDeImagens" id="SeletorDeImagens" onchange="MostrarImagensPorSite()">
+            <option value="">Escolha um site</option>
+          </select>
+          <ul id="ImagensColetadas"></ul>
+        </section>
+
   </main>
 
   <footer>

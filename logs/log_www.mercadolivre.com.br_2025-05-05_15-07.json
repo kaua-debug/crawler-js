@@ -1,0 +1,2162 @@
+{
+  "titulo": "Mercado Livre Brasil - Frete Grátis no mesmo dia",
+  "site": "https://www.mercadolivre.com.br/",
+  "totalLinks": 359,
+  "links": [
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Pular para o conteúdo",
+      "href": "#root-app"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Comentar sobre acessibilidade",
+      "href": "https://www.mercadolivre.com.br/acessibilidade/feedback"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Livre Brasil - Onde comprar e vender de Tudo",
+      "href": "//www.mercadolivre.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/assinaturas/melimais?showModal=true#origin=banner-menu-22-29-promo-melimais#DEAL_ID=&S=MKT&V=1&T=MS&L=MKTPLACE_LOYALTY_VERTICAL_BANNER_MENU_PROMO_PRECO&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=banner_menu_web_ml&me.content_id=BANNER_MENU_MELI_MAIS_PROMO_05_05_22_04&me.flow=-1&me.logic=user_journey&me.position=0"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Informe seu CEP",
+      "href": "https://www.mercadolivre.com.br/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolivre.com.br%2F"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Informe seu CEP",
+      "href": "https://www.mercadolivre.com.br/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolivre.com.br%2F"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Categorias",
+      "href": "https://www.mercadolivre.com.br/categorias#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Veículos",
+      "href": "https://www.mercadolivre.com.br/veiculos/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Supermercado",
+      "href": "https://www.mercadolivre.com.br/ofertas/supermercado#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Tecnologia",
+      "href": "#/"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Casa e Móveis",
+      "href": "https://www.mercadolivre.com.br/c/casa-moveis-e-decoracao#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Eletrodomésticos",
+      "href": "https://www.mercadolivre.com.br/c/eletrodomesticos#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Esportes e Fitness",
+      "href": "https://www.mercadolivre.com.br/c/esportes-e-fitness#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ferramentas",
+      "href": "https://www.mercadolivre.com.br/c/ferramentas#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Construção",
+      "href": "https://www.mercadolivre.com.br/c/construcao#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Indústria e Comércio",
+      "href": "https://www.mercadolivre.com.br/c/industria-e-comercio#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Pet Shop",
+      "href": "https://www.mercadolivre.com.br/c/animais#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Saúde",
+      "href": "https://www.mercadolivre.com.br/c/saude#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Veículos",
+      "href": "https://www.mercadolivre.com.br/c/acessorios-para-veiculos#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Beleza e Cuidado Pessoal",
+      "href": "https://www.mercadolivre.com.br/c/beleza-e-cuidado-pessoal#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Moda",
+      "href": "https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Bebês",
+      "href": "https://www.mercadolivre.com.br/c/bebes#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Brinquedos",
+      "href": "https://www.mercadolivre.com.br/c/brinquedos-e-hobbies#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Imóveis",
+      "href": "https://www.mercadolivre.com.br/imoveis/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Compra Internacional",
+      "href": "https://www.mercadolivre.com.br/importados/compra-internacional#menu=categories&origin=home"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Produtos Sustentaveis",
+      "href": "https://www.mercadolivre.com.br/produtos-sustentaveis#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mais vendidos",
+      "href": "https://www.mercadolivre.com.br/mais-vendidos#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Lojas oficiais",
+      "href": "https://www.mercadolivre.com.br/l/lojas-oficiais#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ver mais categorias",
+      "href": "https://www.mercadolivre.com.br/categorias#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Celulares e Telefones",
+      "href": "https://www.mercadolivre.com.br/c/celulares-e-telefones#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Celulares",
+      "href": "https://lista.mercadolivre.com.br/celulares-telefones/acessorios-celulares/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Peças para Celular",
+      "href": "https://lista.mercadolivre.com.br/celulares-telefones/pecas-celular/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Informática",
+      "href": "https://www.mercadolivre.com.br/c/informatica#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Componentes para PC",
+      "href": "https://lista.mercadolivre.com.br/informatica/componentes-pc/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Impressão",
+      "href": "https://lista.mercadolivre.com.br/informatica/impressao/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Notebook",
+      "href": "https://lista.mercadolivre.com.br/informatica/portateis-acessorios/acessorios-notebook/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Conectividade e Redes",
+      "href": "https://lista.mercadolivre.com.br/informatica/conectividade-redes/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Software",
+      "href": "https://lista.mercadolivre.com.br/informatica/softwares/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Computadores",
+      "href": "https://lista.mercadolivre.com.br/informatica/pc-mesa/computadores/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Tablets e Acessórios",
+      "href": "https://lista.mercadolivre.com.br/informatica/tablets-acessorios/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Câmeras e Acessórios",
+      "href": "https://www.mercadolivre.com.br/c/cameras-e-acessorios#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Câmeras",
+      "href": "https://lista.mercadolivre.com.br/cameras-acessorios/acessorios-cameras/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Câmeras",
+      "href": "https://lista.mercadolivre.com.br/cameras-acessorios/cameras/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Filmadoras",
+      "href": "https://lista.mercadolivre.com.br/cameras-acessorios/filmadoras/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Eletrônicos, Áudio e Vídeo",
+      "href": "https://www.mercadolivre.com.br/c/eletronicos-audio-e-video#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Áudio e Vídeo",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/acessorios-audio-video/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Áudio Portátil e Acessórios",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/audio/audio-portatil-acessorios/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Componentes Eletrônicos",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/componentes-eletronicos/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Equipamento para DJs",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/audio/equipamento-djs/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Som Automotivo",
+      "href": "https://lista.mercadolivre.com.br/acessorios-veiculos/som-automotivo/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Drones e Acessórios",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/drones-acessorios/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para TV",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/acessorios-tv/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Fones de Ouvido",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/audio/fones-ouvido/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Áudio",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/audio/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Projetores e Telas",
+      "href": "https://lista.mercadolivre.com.br/eletronicos-audio-video/projetores-telas/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Games",
+      "href": "https://www.mercadolivre.com.br/c/games#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Video Games",
+      "href": "https://lista.mercadolivre.com.br/games/video-games/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Fliperamas e Arcade",
+      "href": "https://lista.mercadolivre.com.br/games/fliperamas-arcade/#menu=categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Televisores",
+      "href": "https://www.mercadolivre.com.br/c/eletronicos-audio-e-video/tv"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ofertas",
+      "href": "https://www.mercadolivre.com.br/ofertas#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Cupons",
+      "href": "https://www.mercadolivre.com.br/cupons?source_page=mperfil#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Supermercado",
+      "href": "https://www.mercadolivre.com.br/ofertas/supermercado#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Moda",
+      "href": "https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado PlayGrátis",
+      "href": "https://play.mercadolivre.com.br/?origin=navigation_menu_web#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Vender",
+      "href": "https://www.mercadolivre.com.br/syi/core/list#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Crie a sua conta",
+      "href": "https://www.mercadolivre.com.br/registration?confirmation_url=https%3A%2F%2Fwww.mercadolivre.com.br%2F#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Entre",
+      "href": "https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolivre.com.br%2F&loginType=explicit#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Compras",
+      "href": "https://myaccount.mercadolivre.com.br/purchases/list#nav-header"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "0 produtos em seu carrinho",
+      "href": "https://www.mercadolivre.com.br/gz/cart/v2"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/l/baixe-o-app#DEAL_ID=&S=MKT&V=1&T=MS&L=MKTPLACE_MULTICATEG_RTM_SEG_FRETE_NB_DESKWEB&me.audience=unknown&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_0&me.content_id=MS_FRETE_NB_DESKWEB&me.flow=-1&me.logic=user_journey&me.position=0&audience=unknown&bu=3&bu_line=26&component_id=main_slider_web_ml_0&content_id=MS_FRETE_NB_DESKWEB&flow=-1&logic=user_journey&position=0&c_id=/home/exhibitors-carousel/element&c_campaign=MKTPLACE_MULTICATEG_RTM_SEG_FRETE_NB_DESKWEB&c_element_order=1&c_uid=6b63c64a-9dee-46f1-9e43-8d656c570016"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/dia-das-maes#DEAL_ID=&S=MKT&V=1&T=MS&L=MKTPLACE_MULTICATEG_REGALERIA_DIA_DAS_MAES&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_1&me.content_id=MS_DIA_DAS_MAES_05_05_25&me.flow=-1&me.logic=user_journey&me.position=1&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_1&content_id=MS_DIA_DAS_MAES_05_05_25&flow=-1&logic=user_journey&position=1&c_id=/home/exhibitors-carousel/element&c_campaign=MKTPLACE_MULTICATEG_REGALERIA_DIA_DAS_MAES&c_element_order=2&c_uid=980b8e2d-b1a6-47d3-9f3a-82e87f8f7c8a"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/importados/compra-internacional#menu=categories&origin=home#DEAL_ID=&S=MKT&V=1&T=MS&L=MKT_PPS_CBT_MA_CBT&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_2&me.content_id=MS_CBT_PPS_05_05&me.flow=-1&me.logic=user_journey&me.position=2&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_2&content_id=MS_CBT_PPS_05_05&flow=-1&logic=user_journey&position=2&c_id=/home/exhibitors-carousel/element&c_campaign=MKT_PPS_CBT_MA_CBT&c_element_order=3&c_uid=6a58c36c-4375-4930-83ca-ec832f252806"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/assinaturas/melimais?showModal=true#origin=ms-lastday-promo-acq#DEAL_ID=&S=MKT&V=1&T=MS&L=LOYALTY_MELI+_ACQUISITION_SEG_ACQUISICAO_PROMO_MELIMAIS&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_3&me.content_id=MS_LOYALTY_MELI_MAIS_PROMO_05_05&me.flow=-1&me.logic=user_journey&me.position=3&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_3&content_id=MS_LOYALTY_MELI_MAIS_PROMO_05_05&flow=-1&logic=user_journey&position=3&c_id=/home/exhibitors-carousel/element&c_campaign=LOYALTY_MELI&c_element_order=4&c_uid=a98811d7-0f35-483e-87d7-2052ea193856"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/c/bebes#DEAL_ID=&S=MKT&V=1&T=MS&L=MKTPLACE_T3_SEMANADOBEBE_MA_BABIES&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_4&me.content_id=MS_TB_SEMANA_DO_BEBE_BABIES_05_05&me.flow=-1&me.logic=user_journey&me.position=4&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_4&content_id=MS_TB_SEMANA_DO_BEBE_BABIES_05_05&flow=-1&logic=user_journey&position=4&c_id=/home/exhibitors-carousel/element&c_campaign=MKTPLACE_T3_SEMANADOBEBE_MA_BABIES&c_element_order=5&c_uid=d32f6829-0a68-4d90-9b87-e4e68fde8287"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://lista.mercadolivre.com.br/_Container_55-super-ofertas-em-moveis?forceContainer=true#DEAL_ID=MLB1287952&S=MKT&V=1&T=MS&L=MKTPLACE_VERTICAL_FH_MA_05_05_SUPER_OFERTA_EM_MOVEIS&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_5&me.content_id=MS_FH_5_5_SUPER_OFERTA_EM_MOVEIS_05_05&me.flow=-1&me.logic=user_journey&me.position=5&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_5&content_id=MS_FH_5_5_SUPER_OFERTA_EM_MOVEIS_05_05&flow=-1&logic=user_journey&position=5&c_id=/home/exhibitors-carousel/element&c_campaign=MKTPLACE_VERTICAL_FH_MA_05_05_SUPER_OFERTA_EM_MOVEIS&c_element_order=6&c_uid=ade156d7-399d-4dc3-9a15-433b1be3f2a2"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://lista.mercadolivre.com.br/_PriceRange_0-180_Container_ci-pequenas-reformas-grandes-descontos#DEAL_ID=MLB1285071&S=MKT&V=1&T=MS&L=MKTPLACE_VERTICAL_CI_MA_TOOLS_CUP&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=main_slider_web_ml_6&me.content_id=MS_CI_TOOLS_CUP_05_05&me.flow=-1&me.logic=user_journey&me.position=6&audience=all&bu=3&bu_line=26&component_id=main_slider_web_ml_6&content_id=MS_CI_TOOLS_CUP_05_05&flow=-1&logic=user_journey&position=6&c_id=/home/exhibitors-carousel/element&c_campaign=MKTPLACE_VERTICAL_CI_MA_TOOLS_CUP&c_element_order=7&c_uid=3e65cb0a-e517-4a21-9f1f-f73f6737fcbf"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Entrar na sua contaEntre na sua conta",
+      "href": "https://www.mercadolibre.com/jms/mlb/lgz/msl/login?site_id=MLB#da_id=registration&da_position=0&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mostrar produtosMenos de R$100",
+      "href": "https://www.mercadolivre.com.br/ofertas?price=0.0-100.0&container_id=MLB779362-1&search_mode=collapsed&cart_mode=default&navigationcp_mode=default&bar_left_button_style=back&back_action=close&authentication_mode=optional&webkit-engine=2#da_id=low_price_products&da_position=3&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ir para Mais vendidosMais vendidos",
+      "href": "https://www.mercadolivre.com.br/mais-vendidos#da_id=top_sales&da_position=4&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Como funcionaCompra garantida",
+      "href": "https://www.mercadolivre.com.br/compra-garantida/#da_id=protected_buy&da_position=5&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mostrar lojasLojas oficiais",
+      "href": "https://www.mercadolivre.com.br/l/lojas-oficiais#da_id=official_stores&da_position=6&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ir para CategoriasNossas categorias",
+      "href": "https://www.mercadolivre.com.br/categorias#da_id=categories&da_position=7&id_origin=/home/dynamic_access&da_sort_algorithm=static"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Samsung Galaxy A25 5G Dual SIM 128Gb Azul Escuro 6Gb Ram",
+      "href": "https://www.mercadolivre.com.br/samsung-galaxy-a25-5g-dual-sim-128gb-azul-escuro-6gb-ram/p/MLB34103803?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchTodayPromotions&searchVariation=MLB34103803&wid=MLB3932141553&position=1&search_layout=grid&type=product&tracking_id=090cdac4-f348-405d-921a-a1b828ec717e&sid=search&c_id=/home/today-promotions-recommendations/element&c_uid=8a40d6c0-6539-462d-be62-ecd2fbdd9363"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mostrar todas as ofertas Ofertas",
+      "href": "https://www.mercadolivre.com.br/ofertas#c_id=/home/promotions-recommendations&c_uid=05ea5e13-bc29-4024-9e6c-edfd7afcbfc0"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Kit Wella Oil Reflections Sh250+ol30+masc150",
+      "href": "https://www.mercadolivre.com.br/kit-wella-oil-reflections-sh250ol30masc150/p/MLB27710607?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB27710607&wid=MLB3495738525&position=3&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=59947391-a14c-4890-b52a-f3f60974bcfa"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Micro-ondas Electrolux 23L Branco Efficient com Descongelamento Assistido ME23B 110v",
+      "href": "https://www.mercadolivre.com.br/micro-ondas-electrolux-23l-branco-efficient-com-descongelamento-assistido-me23b-110v/p/MLB19617679?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB19617679&wid=MLB2986577361&position=14&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=3b8f1856-c161-407e-8e2f-225182a7901a"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Secador Taiff Style 2000w Motor Ac Preto - 110v 127V",
+      "href": "https://www.mercadolivre.com.br/secador-taiff-style-2000w-motor-ac-preto-110v-127v/p/MLB18920578?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB18920578&wid=MLB3164808306&position=5&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=09893e98-7235-4e1f-96ea-c52930072ca2"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Cooktop a gás Itatiaia Preto 5 Bocas Essencial Bivolt 127V/220V 620CT50153",
+      "href": "https://www.mercadolivre.com.br/cooktop-a-gas-itatiaia-preto-5-bocas-essencial-bivolt-127v220v-620ct50153/p/MLB23997577?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB23997577&wid=MLB3931289779&position=2&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=721603ef-3632-4963-b753-7e40627006b2"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Moto G24 Dual SIM 256 GB grafite 4 GB RAM",
+      "href": "https://www.mercadolivre.com.br/moto-g24-dual-sim-256-gb-grafite-4-gb-ram/p/MLB38832536?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB38832536&wid=MLB4019344363&position=4&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=9dbdad00-a9c0-4be3-8891-b0a18e7623b0"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Berço Portátil Infantil Cercado 0-15kg Lazy Maxibaby - Cinza",
+      "href": "https://www.mercadolivre.com.br/berco-portatil-infantil-cercado-0-15kg-lazy-maxibaby-cinza/p/MLB28308852?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB28308852&wid=MLB3521746167&position=16&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=7c2ced17-b79e-4778-9206-af485510d7fe"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Geladeira Electrolux DC35A Cycle Defrost 260L Super Freezer Duplex Branca 127V",
+      "href": "https://www.mercadolivre.com.br/geladeira-electrolux-dc35a-cycle-defrost-260l-super-freezer-duplex-branca-127v/p/MLB8017585?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB8017585&wid=MLB2036297020&position=9&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=dcbc2716-2062-45bc-9f6c-ac4cfa1e9b86"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Console Sony PlayStation 5 Digital Slim 1TB – Branco + Jogos Returnal e Ratchet & Clank + Controle Sem Fio DualSense Branco",
+      "href": "https://www.mercadolivre.com.br/console-sony-playstation-5-digital-slim-1tb-branco-jogos-returnal-e-ratchet-clank-controle-sem-fio-dualsense-branco/p/MLB37494438?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB37494438&wid=MLB3952943207&position=10&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=ef234291-9130-4ace-9aed-07d8db376d9b"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Smart TV Samsung UN50DU7700GXZD 50\" 4K Crystal",
+      "href": "https://www.mercadolivre.com.br/smart-tv-samsung-un50du7700gxzd-50-4k-crystal/p/MLB35479788?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB35479788&wid=MLB5085254404&position=8&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=4807f38a-db5e-49e8-8399-51baa5249748"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Perfume Feminino La Vie Est Belle Lancôme EDP 100ml",
+      "href": "https://www.mercadolivre.com.br/perfume-feminino-la-vie-est-belle-lancme-edp-100ml/p/MLB6140723?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB6140723&wid=MLB5011962698&position=1&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=4d37db0e-70f9-4661-94c9-0216d8f4e9b7"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Samsung Galaxy A55 5G Dual SIM 256 GB Azul escuro 8 GB RAM",
+      "href": "https://www.mercadolivre.com.br/samsung-galaxy-a55-5g-dual-sim-256-gb-azul-escuro-8-gb-ram/p/MLB34731718?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB34731718&wid=MLB5336918534&position=22&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=7beb92a7-891c-4116-9e9a-fecfa102b9c4"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Projetor Interestelar Hy300 Mini Branco Netflix Wi-fi",
+      "href": "https://produto.mercadolivre.com.br/MLB-3605152933-projetor-interestelar-hy300-mini-branco-netflix-wi-fi-_JM#polycard_client=homes-korribanSearchPromotions&position=46&search_layout=grid&type=item&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&c_id=/home/promotions-recommendations/element&c_uid=032e85b0-fc1f-4270-8f9b-9c393fc77075"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ar Condicionado Split Philco Inverter 12.000 BTU Frio Branco 220v",
+      "href": "https://www.mercadolivre.com.br/ar-condicionado-split-philco-inverter-12000-btu-frio-branco-220v/p/MLB28749201?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB28749201&wid=MLB4512893510&position=15&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=544d5d9b-7aa0-4e14-92ef-7e48a23a349f"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Kit 2câmera Ip Icsee Prova D'água Infravermelho Externa Wifi - Bahrein",
+      "href": "https://www.mercadolivre.com.br/kit-2cmera-ip-icsee-prova-dagua-infravermelho-externa-wifi-bahrein/p/MLB46836439?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB46836439&wid=MLB5309063322&position=17&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=1f923b48-fa79-4840-901b-b334a1f0826a"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Smart Tv Dled 32 Hd Toshiba Vidaa com Assistente de Voz 2hdmi 2usb Wi-fi",
+      "href": "https://www.mercadolivre.com.br/smart-tv-dled-32-hd-toshiba-vidaa-com-assistente-de-voz-2hdmi-2usb-wi-fi/p/MLB46957186?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB46957186&wid=MLB5313530616&position=23&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=927985d9-8d2f-4590-aea7-294995f568d9"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "href": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-500g-dark-lab-unidade/p/MLB26796581?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB26796581&wid=MLB4812143184&position=11&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=b928420a-812c-4348-8b84-1b26db692d55"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Micro-ondas Electrolux 23L Branco Efficient com Descongelamento Assistido ME23B 220v",
+      "href": "https://www.mercadolivre.com.br/micro-ondas-electrolux-23l-branco-efficient-com-descongelamento-assistido-me23b-220v/p/MLB19617678?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB19617678&wid=MLB3003724516&position=12&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=12070e24-3b97-4750-bfd6-1bf132f8c9fe"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Smartphone Samsung Galaxy A25 5G 256GB 8GB Ram Dual SIM Android 14 Azul-Escuro 6,5''",
+      "href": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a25-5g-256gb-8gb-ram-dual-sim-android-14-azul-escuro-65/p/MLB31498601?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB31498601&wid=MLB3870690135&position=18&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=3215bbab-7288-49d7-b0dd-5d39b053f9ff"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Caixa De Som Boombox 3 Bluetooth Preta Jbl Bivolt",
+      "href": "https://www.mercadolivre.com.br/caixa-de-som-boombox-3-bluetooth-preta-jbl-bivolt/p/MLB34112773?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB34112773&wid=MLB5124110670&position=13&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=0b5c5b74-9a0f-4422-b134-cd5a919df55c"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Kit 10 Cueca Boxer Reebok Sem Costura Box + 2 Meias Sandrini",
+      "href": "https://produto.mercadolivre.com.br/MLB-4592797548-kit-10-cueca-boxer-reebok-sem-costura-box-2-meias-sandrini-_JM#polycard_client=homes-korribanSearchPromotions&searchVariation=182423563951&position=47&search_layout=grid&type=item&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&c_id=/home/promotions-recommendations/element&c_uid=e4b9917e-73c3-4bb5-98af-e8b7eb9276d3"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Smart TV Samsung UN43T5300 43\" Full HD",
+      "href": "https://www.mercadolivre.com.br/smart-tv-samsung-un43t5300-43-full-hd/p/MLB15796379?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB15796379&wid=MLB1633002423&position=19&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=510303fe-acb1-4076-9635-a42a59b1a7b6"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Notebook Gamer Acer Nitro V ANV15-51-57WS Intel® Core™ i5-13420H 13ªGeração 512SSD 8GB Nvidia® GeForce® RTX 3050 GDDR6 Linux Gutta 15,6'",
+      "href": "https://www.mercadolivre.com.br/notebook-gamer-acer-nitro-v-anv15-51-57ws-intel-core-i5-13420h-13geraco-512ssd-8gb-nvidia-geforce-rtx-3050-gddr6-linux-gutta-156/p/MLB37396835?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB37396835&wid=MLB3722589767&position=7&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=bdd454f9-434b-464c-85fb-0d6598c715ba"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Escada De Alumínio Multifuncional 4 x 4 16 degraus Botafogo Lar & Lazer Esc0293",
+      "href": "https://www.mercadolivre.com.br/escada-de-aluminio-multifuncional-4-x-4-16-degraus-botafogo-lar-lazer-esc0293/p/MLB36263524?pdp_filters=deal%3AMLB779362-1#polycard_client=homes-korribanSearchPromotions&searchVariation=MLB36263524&wid=MLB4721201188&position=26&search_layout=grid&type=product&tracking_id=a709e679-95a1-4505-8425-b5a496363e12&sid=search&c_id=/home/promotions-recommendations/element&c_uid=e59720ee-f04f-42fe-a6d4-14908539667f"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Assinar o Meli+",
+      "href": "//www.mercadolivre.com.br/assinaturas/melimais?product=meli_essential&showModal=false#origin=widget_home#c_id=/home/user-loyalty-benefits&c_uid=dba3e766-277d-470c-9e9c-318ea83d56d9"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "05.05: MELHOR MODA",
+      "href": "https://lista.mercadolivre.com.br/_Container_data-dupla-moda?forceContainer=true#DEAL_ID=MLB1215183&S=MKT&V=1&T=MS&L=MKTPLACE_VERTICAL_FASHION_MA_5_5_MELHOR_MODA&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=collections_web_ml_0&me.content_id=CL_FASHION_5_5_MELHOR_MODA_05_05&me.flow=-1&me.logic=user_journey&me.position=0&audience=all&bu=3&bu_line=26&component_id=collections_web_ml_0&content_id=CL_FASHION_5_5_MELHOR_MODA_05_05&flow=-1&logic=user_journey&position=0"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/bolsa-moleca-50007-1-22242-cor-cinza-1235-desenho-do-tecido-lisa-acambamento-dos-ferragens-niquel-correia-de-ombro-cinza/p/MLB42013096#wid=MLB3905357287&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/kit-relogio-dourado-feminino-dumont-du2035momk4k-fundo-prata/p/MLB44995880#wid=MLB3938783031&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/kit-relogio-digital-feminino-condor-com-semijoia-cor-da-correia-prata-cor-do-bisel-prata-cor-do-fundo-prata/p/MLB28753755#wid=MLB3537486355&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/relogio-casio-masculino-digital-illuminator-w-218h-3avdf-correia-preta/p/MLB18115559#wid=MLB4268964322&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "05.05: SALDÃO DECOR",
+      "href": "https://lista.mercadolivre.com.br/_Container_55-saldao-da-decoracao?forceContainer=true#DEAL_ID=MLB1287947&S=MKT&V=1&T=MS&L=MKTPLACE_VERTICAL_FH_MA_05_05_SALDAO_DECOR&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=collections_web_ml_1&me.content_id=CL_FH_5_5_SALDAO_DECOR_05_05&me.flow=-1&me.logic=user_journey&me.position=1&audience=all&bu=3&bu_line=26&component_id=collections_web_ml_1&content_id=CL_FH_5_5_SALDAO_DECOR_05_05&flow=-1&logic=user_journey&position=1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/bicama-box-bau-solteiro-88x188-em-courino-linho-cinza-com-colcho-ecoline-d20-espuma-ecoflex/p/MLB41920214#wid=MLB3907682709&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/aparador-buffet-4-portas-com-pes-retr-veneza-multimoveis-branconatural/p/MLB23465863#wid=MLB3906713179&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-2-gavetas-porto-branco-moveis-carraro/p/MLB20564901#wid=MLB3151000858&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/conjunto-sala-de-jantar-mesa-e-6-cadeiras-fnix-carraro-rose/p/MLB41539788#wid=MLB5146852306&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "MELHORES TELEVISORES",
+      "href": "https://lista.mercadolivre.com.br/_Container_televisao-2025#DEAL_ID=MLB1218241&S=MKT&V=1&T=MS&L=MKTPLACE_VERTICAL_HOMEELECTRONICS_MA_TV_HIGH_QUALITY&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=collections_web_ml_2&me.content_id=CL_HE_TV_HIGH_QUALITY_05_05&me.flow=-1&me.logic=user_journey&me.position=2&audience=all&bu=3&bu_line=26&component_id=collections_web_ml_2&content_id=CL_HE_TV_HIGH_QUALITY_05_05&flow=-1&logic=user_journey&position=2"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/smart-tv-43-philco-led-roku-tv-dolby-audio-ptv43va4regb/p/MLB43943869#wid=MLB3966368759&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/tcl-led-smart-tv-50-p755-4k-uhd-google-tv/p/MLB36338560#wid=MLB3994117047&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/smart-tv-samsung-un43t5300-43-full-hd/p/MLB15796379#wid=MLB1633002423&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "",
+      "href": "https://www.mercadolivre.com.br/smart-tv-32-lg-hd-32lr600bpsa-processador-5-ger6-alexa-webos/p/MLB37929806#wid=MLB3871802621&sid=unknown"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Incluído com o Meli+ TotalPlano Padrão com anúncios",
+      "href": "//www.mercadolivre.com.br/assinaturas/melimais?showModal=true&product=meli_total#origin=ml_home"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "15% OFFMax",
+      "href": "//www.mercadolivre.com.br/assinaturas/max#origin=ml_home"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "NOVO7 DIAS GRÁTIS15% OFFUniversal+",
+      "href": "//www.mercadolivre.com.br/assinaturas/universal#origin=ml_home"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "APROVEITEOFERTAS DO DIAVer mais",
+      "href": "https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=f3DSIviFaQQOVJHw5RUf8u9H%2FwtfdK9idCBZxVyxZXD2jpfNguprVzuMyGn39N3KuRfbmupED%2FQV5fIzM7PPTi4pmeMqzUcRplswTO6FVUZQcw4XcEV6i0Q%2BlzRevfPb58YoWiL7DZ118rcpIeBc6aLSpHKsOlu8YIcil8grr82tYKVIM84MWZqLL9IQFuJQkS5FDp%2FAJyEUR17ULKH2k8eKkXJ%2FJUU4PuQo5hHiKPGNXvOI%2Fy0HxWVvyMr2ACW2FWXaIJaUO8UbKDmHqtW5QhEeZKsjJq3sC5bmWkx%2Fkfiddsg10%2FdaNQUeJeF8b3CrLc%2FXJXhLaWNYYy5Q%2FPOihVmk%2F7NJQCanmKzNyPWe5r%2FOLzE%2BsmYKHGJvUlbnR%2Bg2kAPJUNxhbJlqpXnBuX9PpZB8r%2BulsaAs%2BfqKUkr24SIVTTGOnf6hh4FvqiQUYSltVwcWCh1Pat2NADE5EWTsxWwEnjonuCpdScMdpXQJ40xXmCIPWpFfoweDEB%2FTYRI%2BdlTGpJ0%2Bhtn1Ag1iEjqSnjslsrJSGLvFKeYW0bJ4UF4EO%2FoVsRzimzL5nQWdm7LhNr2MqnMN6NlXYWKVJbvUUjmYyqyK5yl8Mbl6cFWU4KxzYsKFXvs%2B4MWWZKOF%2FIDXuGk%2Fd4XImIJsvOLZaAu6jqQyIFOWBpxCgmIGk3TotAhzFglfrowPVf8U%2BoW%2BL7ZFbYAdQA207ltUTqZzjjQSauXO7TE2rHFUHoJyunLbx3ejM6QBfxmZRQ%3D%3D"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ATIVE OSCUPONSVer mais",
+      "href": "https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=1OPvjwqGe%2B9KyqXbg432Iqyb5AwQeISr4%2BL7m78G7FtBXGzGAo3ev%2F6s7ViAwUyKlDGtRA6ATWCLq0dUb53%2BIdMATAM84994y3eueH2NXJyr68l%2FfUIXrRhCiAP8mURlC8ClVd3VFGzmQ57BdUbxAx4Tou31maA2%2BwUrACVUwFQx%2BP4L%2FLOLgfm64pSZ%2BhLnVuhUfIGPlFDOUv%2F4V%2BVtn4eE2xGwGR9001toRTsNH%2BojM%2FVjQb%2BDoljgHB1NMLhmwIMYvQ2aHXfTB%2F48LhZQt4kKWjaPxdNecgGsVZd8KVHGqvCe5shdc4EcSglcy3hXnly3K0IEnyQooP%2Fugut2TiiePLbeojYKnBH1OrmOrh8fy3%2Bgt1NWfXScLw8BtsSvXE68C2wOPb63hkL%2BzBlj1JB5U5dtsGcOCnHMdJF%2FHz6Va68PAbHsDAnKurgzBFVdF2Vzbtk0qUXcMO2DinHGtFiZSr8T8RzOW%2Bt2H5SScNjUGHfTP32RlpzsI4pKQ5RaLb4LSnOuWUrGuBH1ySpQgieiGUAx6Vxq9WOOu%2Bl61djZG9UZtd891WqND%2B4u1fR29ZEfPmLKclRvA7OvSdkSGOgwgMRM4dIZ4lV9Ec3AHk7RIoimCWvX6rc251CqWdQ%3D"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "SELEÇÃODE LIVROSVer mais",
+      "href": "https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=zXDuJVnySFcjvZNmeEzmC5%2Bp8Js082uQQJ%2BIPPd573PyNLOgGlX%2FnR9b0T3GIGbKAZpBTmqK2IXhE3pVugrt9vcXdDkzHDg3Q%2BcPuToFh3E7S7DbrKZ7M%2F4VIuo%2FiecFz9VOAoH9Bpub8F1pjJn3XqQ6kcQ%2FTq31JbCxbXex95baJN6ddCfcHTH4r78OQC4r4p%2FTpXS0IC2sHxQ%2BI%2BxqmgTkmGGWayEVVtYBbD5WM4SdiL0DbvUlbyDuhJgdzVkIzX1OWBzQe0AhzF7e669Dc4Yeu6xAzJXdIvmWiWUOkC9E4DSi5TCTFlIiz0pCN%2BKqXzMFJxArsZzgodeJswfCCiFmFFau72Ltf0I79EyxyA39jJHFAa6242mrGj8xaKwNkBF%2BtpYrUd5wdRWqSYa8mZGEycTEhAMVJjeQl9ICGPYRSdrodzvD2otKUImJbdNGBep37z0UYKg751ZTZFmHf60iZOmm1Rj0VakCyL5E6lqb7cAI96yVUsamkHkJ10nN%2FPQ%2BiFq7tXdMxhz20H0jHcuw8TMqmN7sA%2FFgeDSsL71rtKHYE6zDQggAml8Cd0Q76Xxmfc1UThYcFDyo3uJeddeVQbMCftX%2BhcIW73PTdLBV3eDYhR9l5RI0NYZKTtke3O%2BLTHakHjEO8E03n6gUrnxvQKTs3gLtanGydUEI6STxqaLH3NUbY8qEwH85NyM1kLIHp3yVJXxNgRn4bhSmfabQmqlOZEaOmbvaXqfNiEAfLRte9r3FBALqxGviYhg%2FxmSX4ssBg24%3D"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "FESTIVAL DEGRANDES MARCASVer mais",
+      "href": "https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=JMOgoqwDe5JQ3BT0eyimxKwDIXvDl6mTAKdrf%2BIP%2FivqxRKSYs5eVPXSa%2Fkgl%2Bx0uZ7f2Ipm0%2BW81iObnhZrtl4vM4MAbcEWqmSlg2vkl2V2ie1dM1wqU2TcwWKQI0OjIk4hgGnELQ6v%2BQA639C%2B0GZtYLtnEJM8bZUZNVVwc1h0wYOj8%2B71f6NBGd6WVuo74YuWalYE8xE5ktJnf9u7mK48fRDlEvoMm0%2FMWDVxWyFqgtxUXKYD75ZiDegbLmjbtj439JiG%2FxMWW%2Bn9jyBMUsGhgZr3WPGszWchV7%2FvmE80dH1LahNCXbU5Ha4DeIjrYBXs5F%2BMBuRQXKgQl5s4R6Ng10Bha0IU%2BzeRllRyVfM74o3i%2FIKtsV7m8J4u0DPUkk%2Bh3CDJO9slAugx%2Fu0V95cC4LNZZKOq0G7zjwNby5TDC5rCgmKMGxF82%2BxDcf3qrW6SeOPYBsPYqwKDuxhh8cCvNxDMo6vNJ3jP6ojFOiurnvynFgw6a7Sp%2BxDfR8NgomymoV931XvDOVoHR0Rw8%2FvjcfIo3T4G%2Bfn6IBpZ0YZwu8n3ZY0L80%2FcgU9pphPr7GRZEQjn9zbDMvZ7tXsBVqo0x0xvkbeVMQUA8kvHuKhM%2FnWQnUFEsawnJn4tc8a5rfigJCaWHRtU%2FcXPGUVhHqoFM0uKgg7eFIkGlprSMujNkfbIQbJ6l0CRUSfhYWwlQqPDVmN%2Bf6ZV1VLmEZkspOBNYk2L3q%2BfeYGOgJxyi4ZAcWeLvuSp5v0XgO66HXJHaoGOjFI%2BYdRA6Q%3D%3D"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mostrar todas as categorias",
+      "href": "https://home.mercadolivre.com.br/categories"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Carros, Motos e Outros",
+      "href": "https://www.mercadolivre.com.br/c/carros-motos-e-outros#c_id=/home/categories/element&c_category_id=MLB1743&c_uid=1fc7ea20-b6e7-4341-849e-5b5fe8032517"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessórios para Veículos",
+      "href": "https://www.mercadolivre.com.br/c/acessorios-para-veiculos#c_id=/home/categories/element&c_category_id=MLB5672&c_uid=00d65f7c-dedf-4186-8f76-0b842fa2f5c3"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Casa, Móveis e Decoração",
+      "href": "https://www.mercadolivre.com.br/c/casa-moveis-e-decoracao#c_id=/home/categories/element&c_category_id=MLB1574&c_uid=60186bea-7195-45db-b074-1f362e3c39bf"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Celulares e Telefones",
+      "href": "https://www.mercadolivre.com.br/c/celulares-e-telefones#c_id=/home/categories/element&c_category_id=MLB1051&c_uid=f1fd172a-2c85-4a1c-9b5a-5b27c0ab44f1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Calçados, Roupas e Bolsas",
+      "href": "https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas?gender=female#c_id=/home/categories/element&c_category_id=MLB1430&c_uid=ee69e104-7235-45cd-958d-d9496ec2c2d9"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Informática",
+      "href": "https://www.mercadolivre.com.br/c/informatica#c_id=/home/categories/element&c_category_id=MLB1648&c_uid=9e93554e-9df8-417a-9d34-eed2ca5f1774"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Eletrodomésticos",
+      "href": "https://www.mercadolivre.com.br/c/eletrodomesticos#c_id=/home/categories/element&c_category_id=MLB5726&c_uid=596f4925-f73d-4b3f-b8c0-f054924eb12a"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Esportes e Fitness",
+      "href": "https://www.mercadolivre.com.br/c/esportes-e-fitness#c_id=/home/categories/element&c_category_id=MLB1276&c_uid=87b77798-0d5b-413d-a4b0-9397a04add3c"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Imóveis",
+      "href": "http://www.mercadolivre.com.br/imoveis/#c_id=/home/categories/element&c_category_id=MLB1459&c_uid=52170e2d-c59b-45b1-aa5b-d8e4529e2422"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ferramentas",
+      "href": "https://www.mercadolivre.com.br/c/ferramentas#c_id=/home/categories/element&c_category_id=MLB263532&c_uid=78c68129-e2ba-479e-922e-4bd64929f3f1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Beleza e Cuidado Pessoal",
+      "href": "https://www.mercadolivre.com.br/c/beleza-e-cuidado-pessoal#c_id=/home/categories/element&c_category_id=MLB1246&c_uid=2ec5a415-d50c-45a0-9676-f02546413176"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Eletrônicos, Áudio e Vídeo",
+      "href": "https://www.mercadolivre.com.br/c/eletronicos-audio-e-video#c_id=/home/categories/element&c_category_id=MLB1000&c_uid=efa87eed-1e0b-4b5b-aedc-e1af0bdd1350"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Agro",
+      "href": "https://www.mercadolivre.com.br/c/agro#c_id=/home/categories/element&c_category_id=MLB271599&c_uid=346a537a-3688-4671-a3b7-4e65975b910d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Alimentos e Bebidas",
+      "href": "https://www.mercadolivre.com.br/c/alimentos-e-bebidas#c_id=/home/categories/element&c_category_id=MLB1403&c_uid=6e5fc7ad-a2d9-4b19-be7a-36309436efe8"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Antiguidades e Coleções",
+      "href": "https://www.mercadolivre.com.br/c/antiguidades-e-colecoes#c_id=/home/categories/element&c_category_id=MLB1367&c_uid=2074776b-26a6-4466-a297-5de606d17c8c"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Arte, Papelaria e Armarinho",
+      "href": "https://www.mercadolivre.com.br/c/arte-papelaria-e-armarinho#c_id=/home/categories/element&c_category_id=MLB1368&c_uid=aa25c451-693b-42a9-82fa-842197b289d0"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Bebês",
+      "href": "https://www.mercadolivre.com.br/c/bebes#c_id=/home/categories/element&c_category_id=MLB1384&c_uid=c8f860b2-2f40-4159-bdba-d5ea6bb9e0d5"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Brinquedos e Hobbies",
+      "href": "https://www.mercadolivre.com.br/c/brinquedos-e-hobbies#c_id=/home/categories/element&c_category_id=MLB1132&c_uid=cea10ee3-83e6-4ed5-ba7d-5f311b3f908d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Construção",
+      "href": "https://www.mercadolivre.com.br/c/construcao#c_id=/home/categories/element&c_category_id=MLB1500&c_uid=1aa7d583-079a-4ef4-9165-1a68af8d36c5"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Câmeras e Acessórios",
+      "href": "https://www.mercadolivre.com.br/c/cameras-e-acessorios#c_id=/home/categories/element&c_category_id=MLB1039&c_uid=41bac13d-f154-4bba-83fc-d81dd9689697"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Festas e Lembrancinhas",
+      "href": "https://www.mercadolivre.com.br/c/festas-e-lembrancinhas#c_id=/home/categories/element&c_category_id=MLB12404&c_uid=0601b004-51d6-49b2-a60a-16caca5d21ed"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Games",
+      "href": "https://www.mercadolivre.com.br/c/games#c_id=/home/categories/element&c_category_id=MLB1144&c_uid=7c5989eb-36df-4e04-a1ae-38669799ea7d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Indústria e Comércio",
+      "href": "https://www.mercadolivre.com.br/c/industria-e-comercio#c_id=/home/categories/element&c_category_id=MLB1499&c_uid=53b1ec3c-a4b0-432f-8955-4d1cd3e2af4d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Ingressos",
+      "href": "https://www.mercadolivre.com.br/c/ingressos#c_id=/home/categories/element&c_category_id=MLB218519&c_uid=e8cbe47a-5ee7-4de5-9998-2808d96a1de8"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Instrumentos Musicais",
+      "href": "https://www.mercadolivre.com.br/c/instrumentos-musicais#c_id=/home/categories/element&c_category_id=MLB1182&c_uid=24577337-3d50-401e-86f4-3f830e612d3e"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Joias e Relógios",
+      "href": "https://www.mercadolivre.com.br/c/joias-e-relogios#c_id=/home/categories/element&c_category_id=MLB3937&c_uid=db836f65-9c91-46bc-91b7-62ad25285603"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Livros, Revistas e Comics",
+      "href": "https://www.mercadolivre.com.br/c/livros-revistas-e-comics#c_id=/home/categories/element&c_category_id=MLB1196&c_uid=2afda927-349b-4e4b-bb03-72598453c155"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Música, Filmes e Seriados",
+      "href": "https://www.mercadolivre.com.br/c/musica-filmes-e-seriados#c_id=/home/categories/element&c_category_id=MLB1168&c_uid=7de1c44b-6a1c-4420-b5e7-ba7f4d9d8753"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Pet Shop",
+      "href": "https://www.mercadolivre.com.br/c/animais#c_id=/home/categories/element&c_category_id=MLB1071&c_uid=9e35edd8-57a8-4396-90ed-fc7e359f2110"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Saúde",
+      "href": "https://www.mercadolivre.com.br/c/saude#c_id=/home/categories/element&c_category_id=MLB264586&c_uid=8e309bae-8dc9-47f1-b240-c88a3903de6d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Serviços",
+      "href": "https://www.mercadolivre.com.br/c/servicos#c_id=/home/categories/element&c_category_id=MLB1540&c_uid=3bc2e6b4-8b38-409e-8bb3-90db0b1a8d4d"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Televisores",
+      "href": "https://eletronicos.mercadolivre.com.br/televisores#c_id=/home/categories/element&c_category_id=MLB1002&c_uid=e555f5b8-0444-4b7a-bc6c-aff2bb9571da"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mais Categorias",
+      "href": "https://www.mercadolivre.com.br/c/mais-categorias#c_id=/home/categories/element&c_category_id=MLB1953&c_uid=7b617f40-595e-4aac-88d2-2ff3792b2c6b"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Como pagar com Mercado Pago",
+      "href": "https://www.mercadolivre.com.br/pagar-online-com-mercadopago/"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Como te protegemos",
+      "href": "https://www.mercadolivre.com.br/compra-garantida"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "apple watch",
+      "href": "https://lista.mercadolivre.com.br/apple-watch"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ar condicionado",
+      "href": "https://lista.mercadolivre.com.br/ar-condicionado-inverterr"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ar condicionado inverter",
+      "href": "https://lista.mercadolivre.com.br/ar-condicionado-inverter"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "bicicletas",
+      "href": "https://lista.mercadolivre.com.br/bicicleta"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "cafeteira",
+      "href": "https://lista.mercadolivre.com.br/cafeteira"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "carros novos",
+      "href": "https://lista.mercadolivre.com.br/veiculos/carros-caminhonetes/catalogo/"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "computador",
+      "href": "https://lista.mercadolivre.com.br/computador"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "fogao 4 boca",
+      "href": "https://lista.mercadolivre.com.br/fogao-4-bocas"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "fone de ouvido bluetooth",
+      "href": "https://lista.mercadolivre.com.br/fone-de-ouvido-bluetooth"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "freezer vertical",
+      "href": "https://lista.mercadolivre.com.br/freezer-vertical"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "geladeira frost free",
+      "href": "https://lista.mercadolivre.com.br/geladeira-frost-free"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "guarda roupa casal",
+      "href": "https://lista.mercadolivre.com.br/guarda-roupa-casal"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "guarda roupa solteiro",
+      "href": "https://lista.mercadolivre.com.br/guarda-roupa-solteiro"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ipad",
+      "href": "https://lista.mercadolivre.com.br/ipad"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone",
+      "href": "https://lista.mercadolivre.com.br/iphone"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 8 plus",
+      "href": "https://lista.mercadolivre.com.br/iphone-8-plus"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 11",
+      "href": "https://lista.mercadolivre.com.br/iphone-11"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 13",
+      "href": "https://lista.mercadolivre.com.br/iphone-13"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 13 pro max",
+      "href": "https://lista.mercadolivre.com.br/iphone-13-pro-max"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 14",
+      "href": "https://lista.mercadolivre.com.br/iphone-14"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 14 pro",
+      "href": "https://lista.mercadolivre.com.br/iphone-14-pro"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 14 pro max",
+      "href": "https://lista.mercadolivre.com.br/iphone-14-pro-max"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 15",
+      "href": "https://lista.mercadolivre.com.br/iphone-15"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 16",
+      "href": "https://lista.mercadolivre.com.br/iphone-16"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 16 plus",
+      "href": "https://lista.mercadolivre.com.br/iphone-16-plus"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 16 pro",
+      "href": "https://lista.mercadolivre.com.br/iphone-16-pro"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "iphone 16 pro max",
+      "href": "https://lista.mercadolivre.com.br/iphone-16-pro-max"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "jbl",
+      "href": "https://lista.mercadolivre.com.br/jbl"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "microondas",
+      "href": "https://lista.mercadolivre.com.br/microondas"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "monitor",
+      "href": "https://lista.mercadolivre.com.br/monitor"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "motorola",
+      "href": "https://lista.mercadolivre.com.br/motorola"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "nintendo switch",
+      "href": "https://lista.mercadolivre.com.br/nintendo-switch"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "notebook",
+      "href": "https://lista.mercadolivre.com.br/notebook"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "notebook dell",
+      "href": "https://lista.mercadolivre.com.br/notebook-dell"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "painel para tv",
+      "href": "https://lista.mercadolivre.com.br/painel-tv"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "penteadeira",
+      "href": "https://lista.mercadolivre.com.br/penteadeira"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "poco x5 pro",
+      "href": "https://lista.mercadolivre.com.br/poco-x5-pro"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ps4",
+      "href": "https://lista.mercadolivre.com.br/ps4"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ps5",
+      "href": "https://lista.mercadolivre.com.br/ps5"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "redmi note 12",
+      "href": "https://lista.mercadolivre.com.br/redmi-note-12"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "s22 ultra",
+      "href": "https://lista.mercadolivre.com.br/s22-ultra"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "samsung a54",
+      "href": "https://lista.mercadolivre.com.br/samsung-a54"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "samsung s23",
+      "href": "https://lista.mercadolivre.com.br/samsung-galaxy-s23"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "smartwatch",
+      "href": "https://lista.mercadolivre.com.br/smartwatch"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tablets samsung",
+      "href": "https://lista.mercadolivre.com.br/tablets-samsung"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tenis masculino",
+      "href": "https://lista.mercadolivre.com.br/tenis-masculino"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tennis feminino",
+      "href": "https://lista.mercadolivre.com.br/tenis-feminino"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tv 32 polegadas",
+      "href": "https://lista.mercadolivre.com.br/tv-32-polegadas"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tv 50 4k",
+      "href": "https://lista.mercadolivre.com.br/tv-50-polegadas-4k"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "tv 50 polegadas",
+      "href": "https://lista.mercadolivre.com.br/tv-50-polegadas"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "ventilador",
+      "href": "https://lista.mercadolivre.com.br/ventilador"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "xbox",
+      "href": "https://lista.mercadolivre.com.br/xbox"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "xbox series x",
+      "href": "https://lista.mercadolivre.com.br/xbox-series-x"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "xdj",
+      "href": "https://lista.mercadolivre.com.br/xdj"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "xiaomi",
+      "href": "https://lista.mercadolivre.com.br/celular-xiaomi"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "A",
+      "href": "https://www.mercadolivre.com.br/glossary/A/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "B",
+      "href": "https://www.mercadolivre.com.br/glossary/B/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "C",
+      "href": "https://www.mercadolivre.com.br/glossary/C/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "D",
+      "href": "https://www.mercadolivre.com.br/glossary/D/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "E",
+      "href": "https://www.mercadolivre.com.br/glossary/E/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "F",
+      "href": "https://www.mercadolivre.com.br/glossary/F/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "G",
+      "href": "https://www.mercadolivre.com.br/glossary/G/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "H",
+      "href": "https://www.mercadolivre.com.br/glossary/H/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "I",
+      "href": "https://www.mercadolivre.com.br/glossary/I/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "J",
+      "href": "https://www.mercadolivre.com.br/glossary/J/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "K",
+      "href": "https://www.mercadolivre.com.br/glossary/K/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "L",
+      "href": "https://www.mercadolivre.com.br/glossary/L/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "M",
+      "href": "https://www.mercadolivre.com.br/glossary/M/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "N",
+      "href": "https://www.mercadolivre.com.br/glossary/N/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "O",
+      "href": "https://www.mercadolivre.com.br/glossary/O/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "P",
+      "href": "https://www.mercadolivre.com.br/glossary/P/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Q",
+      "href": "https://www.mercadolivre.com.br/glossary/Q/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "R",
+      "href": "https://www.mercadolivre.com.br/glossary/R/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "S",
+      "href": "https://www.mercadolivre.com.br/glossary/S/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "T",
+      "href": "https://www.mercadolivre.com.br/glossary/T/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "U",
+      "href": "https://www.mercadolivre.com.br/glossary/U/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "V",
+      "href": "https://www.mercadolivre.com.br/glossary/V/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "W",
+      "href": "https://www.mercadolivre.com.br/glossary/W/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "X",
+      "href": "https://www.mercadolivre.com.br/glossary/X/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Y",
+      "href": "https://www.mercadolivre.com.br/glossary/Y/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Z",
+      "href": "https://www.mercadolivre.com.br/glossary/Z/1"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Livre, Sobre o",
+      "href": "https://www.mercadolivre.com.br/institucional"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Investor relations, Sobre o",
+      "href": "https://investor.mercadolibre.com"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Tendências, Sobre o",
+      "href": "https://tendencias.mercadolivre.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Sustentabilidade, Sobre o",
+      "href": "https://sustentabilidadmercadolibre.com/pt"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Blog, Sobre o",
+      "href": "https://www.mercadolivre.com.br/blog"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Desenvolvedores, Outros sites",
+      "href": "https://developers.mercadolibre.com"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Pago, Outros sites",
+      "href": "https://www.mercadopago.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Envios, Outros sites",
+      "href": "https://envios.mercadolivre.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Shops, Outros sites",
+      "href": "https://www.mercadoshops.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Ads, Outros sites",
+      "href": "https://ads.mercadolivre.com.br"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Comprar, Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda/Compras_638"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Vender, Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda/Vender-un-producto_988"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Solução de problemas, Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Segurança, Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda/seguranca_663"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "X, Redes sociais",
+      "href": "https://x.com/MercadoLivre"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Facebook, Redes sociais",
+      "href": "https://www.facebook.com/MercadoLivre"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Instagram, Redes sociais",
+      "href": "https://www.instagram.com/mercadolivre"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "YouTube, Redes sociais",
+      "href": "https://www.youtube.com/user/mercadolivreoficial"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Entre, Minha conta",
+      "href": "https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolivre.com.br%2F&loginType=explicit"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Vender, Minha conta",
+      "href": "https://www.mercadolivre.com.br/syi/core/list"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Meli+, Assinaturas",
+      "href": "https://www.mercadolivre.com.br/assinaturas/melimais#origin=footer_ml"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Disney+, Assinaturas",
+      "href": "https://www.mercadolivre.com.br/assinaturas/melimais#origin=footer_ml"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Max, Assinaturas",
+      "href": "https://www.mercadolivre.com.br/assinaturas/max#origin=footer_ml"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Paramount+, Assinaturas",
+      "href": "https://www.mercadolivre.com.br/assinaturas/paramount#origin=footer_ml"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Universal+, Assinaturas",
+      "href": "https://www.mercadolivre.com.br/assinaturas/universal#origin=footer_ml"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Dia do consumidor, Temporadas",
+      "href": "https://www.mercadolivre.com.br/dia-do-consumidor"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Dia das mães, Temporadas",
+      "href": "https://www.mercadolivre.com.br/dia-das-maes"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Black Friday, Temporadas",
+      "href": "https://www.mercadolivre.com.br/black-friday"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Descontaco, Temporadas",
+      "href": "https://www.mercadolivre.com.br/descontaco"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Trabalhe conosco",
+      "href": "https://careers-meli.mercadolibre.com/pt?utm_campaign=site-mlb&utm_source=mercadolibre&utm_medium=mercadolibre"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Termos e condições",
+      "href": "https://www.mercadolivre.com.br/ajuda/Termos-e-condicoes-gerais-de-uso_1409"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Promoções",
+      "href": "https://www.mercadolivre.com.br/l/promocoes"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Como cuidamos da sua privacidade",
+      "href": "https://www.mercadolivre.com.br/privacidade"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Acessibilidade",
+      "href": "https://www.mercadolivre.com.br/acessibilidade"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Contato",
+      "href": "https://www.mercadolivre.com.br/ajuda"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Informações sobre seguros",
+      "href": "https://www.mercadolivre.com.br/ajuda/23303"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Programa de Afiliados",
+      "href": "https://www.mercadolivre.com.br/l/afiliados-home"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Lista de presentes",
+      "href": "https://www.mercadolivre.com.br/listas-de-presentes"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Mercado Livre",
+      "href": "https://hp.mercadolibre.com/?p=ML&s=MLB&d=desktop"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "link",
+      "texto": "Central de privacidade.",
+      "href": "https://www.mercadolivre.com.br/privacidade#tech-and-cookies"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420134-7717.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420139-9216.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420163-6486.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420165-15.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420168-3381.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420171-8449.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420174-1365.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420178-9787.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420180-8375.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420184-4936.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420326-8356.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420329-9354.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420333-872.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420334-2146.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420336-9489.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420338-1813.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420341-1588.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420343-8370.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420344-8503.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420345-7054.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420347-9750.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420351-3174.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420352-4212.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420353-4054.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420355-9312.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420367-7672.png"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420369-9236.png"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420371-2153.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420374-2606.png"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420377-4799.png"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420379-2158.png"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420386-5069.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420389-8254.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420391-5502.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420394-8426.jpg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420395-2734.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420398-2166.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420401-7469.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420403-5855.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420405-6877.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420408-3430.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420411-1425.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420413-170.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420415-3845.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420419-2950.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420422-8385.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420424-2458.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420427-4789.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420430-7725.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420433-4171.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420435-1062.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420439-2377.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420441-5721.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420444-8890.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420447-3262.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420450-3905.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420452-348.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420454-1487.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420459-7980.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420462-9482.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420464-6178.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420467-6086.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420470-2811.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420473-5960.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420475-9281.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420479-287.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420481-6666.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420483-3476.webp"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420485-6916.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420490-9170.svg"
+    },
+    {
+      "site": "https://www.mercadolivre.com.br/",
+      "tipo": "img",
+      "texto": "",
+      "href": "/imagens/1746468420493-4122.svg"
+    }
+  ],
+  "dataHoraLog": "05/05/2025 15:07"
+}
