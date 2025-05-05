@@ -10,10 +10,12 @@ const chalk = require('chalk');
 app.use(express.static('public'));
 app.use(express.json());
 
+// Rota para servir o arquivo JSON
 app.get('/dados.json', (req, res) => {
-  res.sendFile(path.join(__dirname, '/dados.json'));
+  res.sendFile(path.join(__dirname, 'dados.json'));
 });
 
+// Verifica e cria pastas se não existirem
 const pastaImagens = path.join(__dirname, 'public', 'imagens');
 if (!fs.existsSync(pastaImagens)) {
   fs.mkdirSync(pastaImagens, { recursive: true });
@@ -25,11 +27,12 @@ if (!fs.existsSync(pastaLogs)) {
   console.log('📁 Pasta de logs criada!');
 }
 
+// Rota para adicionar novo site
 app.post('/adicionar-site', async (req, res) => {
   const { url } = req.body;
 
   if (!url) {
-    console.error('URL inválida recebida no corpo da requisição');
+    console.error('URL inválida recebida');
     return res.status(400).json({ message: 'Url inválida' });
   }
 
@@ -38,13 +41,14 @@ app.post('/adicionar-site', async (req, res) => {
     const resultado = await crawler(url);
 
     if (!resultado || !resultado.links || resultado.links.length === 0) {
-      console.error('Nenhum link encontrado na página');
+      console.error('Nenhum link encontrado');
       return res.status(500).json({ message: 'Nenhum link encontrado na página' });
     }
 
     const caminhoJSON = path.join(__dirname, 'dados.json');
     let dadosAntigos = [];
 
+    // Lê dados existentes
     if (fs.existsSync(caminhoJSON)) {
       const conteudo = fs.readFileSync(caminhoJSON, 'utf-8');
       try {
@@ -55,22 +59,24 @@ app.post('/adicionar-site', async (req, res) => {
       }
     }
 
-      // NOVO: apenas adiciona os novos links, sem remover os antigos
+    // Evita duplicação (compara por href)
     const hrefsExistentes = new Set(dadosAntigos.map(item => item.href));
     const linksNovos = resultado.links.filter(item => !hrefsExistentes.has(item.href));
-      
+
     const novosDados = [...dadosAntigos, ...linksNovos];
-      
+
+    // Salva JSON atualizado
     fs.writeFileSync(caminhoJSON, JSON.stringify(novosDados, null, 2), 'utf-8');
     console.log(chalk.green('✅ dados.json atualizado'));
 
+    // Salva log do processo
     const dataHora = getDataHoraAtual();
-    const nomeArquivo = `log_${novoHost}_${dataHora.formatoArquivo}.json`;
-    const caminhoCompleto = path.join(pastaLogs, nomeArquivo);
+    const nomeArquivo = `log_${new URL(url).hostname}_${dataHora.formatoArquivo}.json`;
+    const caminhoLog = path.join(pastaLogs, nomeArquivo);
 
     resultado.dataHoraLog = dataHora.formatoHumano;
-    fs.writeFileSync(caminhoCompleto, JSON.stringify(resultado, null, 2), 'utf-8');
-    console.log(`📄 Log salvo em: ${caminhoCompleto}`);
+    fs.writeFileSync(caminhoLog, JSON.stringify(resultado, null, 2), 'utf-8');
+    console.log(`📄 Log salvo em: ${caminhoLog}`);
 
     res.json({ message: 'URL escaneada e dados adicionados com sucesso' });
 
@@ -104,6 +110,7 @@ async function crawler(url) {
     const links = [];
     const imagens = [];
 
+    // Captura de links
     $('a').each((index, element) => {
       const texto = $(element).text();
       const href = $(element).attr('href');
@@ -111,12 +118,14 @@ async function crawler(url) {
       if (href) {
         links.push({
           site: url,
+          tipo: 'link',
           texto: texto.trim(),
           href: href
         });
       }
     });
 
+    // Captura de imagens
     const imagemPromises = $('img').map(async (_, el) => {
       let src = $(el).attr('src');
       if (!src) return null;
@@ -133,8 +142,8 @@ async function crawler(url) {
         return {
           site: url,
           tipo: 'img',
-          href: caminhoLocal,
-          texto: ''
+          texto: '',
+          href: caminhoLocal
         };
       }
       return null;
@@ -168,7 +177,9 @@ async function baixarImagem(urlImagem, nomeArquivo) {
       method: 'GET',
       url: urlImagem,
       responseType: 'stream',
-      headers: { 'User-Agent': 'Mozilla/5.0' }
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+      }
     });
 
     await new Promise((resolve, reject) => {
