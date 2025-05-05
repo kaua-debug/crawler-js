@@ -19,28 +19,30 @@
       <form id="siteForm">
         <input type="url" id="novaUrl" placeholder="Digite a URL..." required />
         <div class="buttons">
-          <button type="button" id="botao-enviar" onclick="enviarUrl()">Enviar</button>
-          <button type="button" onclick="mostrarDados()">📂 Ver Todos os Dados</button>
+          <button type="button" onclick="enviarUrl()">Adicionar</button>
+          <button type="button" onclick="mostrarDados()">📂 Ver Dados</button>
           <button type="button" onclick="fecharDados()">❌ Fechar</button>
         </div>
       </form>
     </section>
 
     <section class="dados-section">
-      <h2>Sites Visitados</h2>
-      <div id="conteudo"></div>
+      <h2>Sites Visitados:</h2>
+      <div id="conteudo"></div> 
     </section>
 
     <section class="links-section">
+
       <select id="seletorDeSites" class="seletorDeSites" onchange="mostrarLinksPorSite()">
-        <option value="">Escolha um site</option>
+        <option value="">Ecolha um site</option>
       </select>
       <ul id="linksColetados"></ul>
 
-      <select id="seletorDeImagens" onchange="mostrarImagensPorSite()">
-        <option value="">Escolha um site</option>
+      <select id="seletorDeImagens" class="seletorDeImagens" onchange="mostrarImagensPorSite()">
+        <option value="">Ecolha um site</option>
       </select>
-      <ul id="imagensColetadas"></ul>
+      <ul id="ImagensColetadas"></ul>
+
     </section>
 
   </main>

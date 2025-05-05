@@ -1,145 +1,126 @@
 body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Courier New', monospace;
   margin: 0;
   padding: 0;
-  background-color: #111;
-  color: #eee;
-  font-family: 'Courier New', Courier, monospace;
 }
 
 header {
+  background-color: #1f1f1f;
+  color: #6200ff;
   text-align: center;
-  padding: 20px 0;
-  background-color: #222;
-}
-
-header h1 {
-  color: #f33;
-  margin: 0;
-  font-size: 2.5rem;
-  letter-spacing: 2px;
+  padding: 1rem;
+  font-size: 1.5rem;
 }
 
 main {
   max-width: 800px;
-  margin: 20px auto;
-  padding: 20px;
-  background-color: #1a1a1a;
+  margin: auto;
+  padding: 2rem;
+}
+
+.form-section, .links-section, .dados-section {
+  background-color: #1f1f1f;
+  padding: 1.5rem;
   border-radius: 10px;
-  box-shadow: 0 0 10px #000;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 10px rgba(0,255,204,0.1);
 }
 
-section {
-  margin-bottom: 30px;
-}
-
-h2 {
-  font-size: 1.5rem;
-  margin-bottom: 10px;
-  border-bottom: 1px solid #333;
-  padding-bottom: 5px;
-}
-
-input[type="text"] {
-  width: 100%;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  background: #333;
-  color: #eee;
+input[type="url"] {
+  width: 720px;
+  padding: 0.75rem;
+  background-color: #2c2c2c;
+  border: 1px solid #6200ff;
+  color: #fff;
   font-size: 1rem;
-  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.buttons {
+  margin-top: 10px;
 }
 
 button {
-  padding: 10px 15px;
   margin-right: 10px;
+  padding: 0.5rem 1rem;
+  background-color: #6200ff;
   border: none;
   border-radius: 5px;
+  color: #000;
   font-weight: bold;
   cursor: pointer;
-  transition: background 0.3s;
 }
 
-button.enviar {
-  background-color: #4caf50;
-  color: white;
-}
-
-button.enviar:hover {
-  background-color: #45a049;
-}
-
-button.ver-dados {
-  background-color: #ff9800;
-  color: black;
-}
-
-button.ver-dados:hover {
-  background-color: #e68a00;
-}
-
-button.fechar {
-  background-color: #f44336;
-  color: white;
-}
-
-button.fechar:hover {
-  background-color: #d32f2f;
-}
-
-select {
-  width: 100%;
-  padding: 10px;
-  background: #333;
-  color: #eee;
-  border: none;
-  border-radius: 5px;
-  margin-top: 5px;
-  margin-bottom: 10px;
-}
-
-#conteudo {
-  background: #222;
-  padding: 15px;
-  border-radius: 10px;
-  overflow-x: auto;
+button:hover {
+  background-color: #6200ff;
 }
 
 .site {
-  margin-bottom: 20px;
-  padding: 10px;
-  background: #292929;
+  background-color: #2c2c2c;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
   border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,255,204,0.2);
 }
 
 .site h2 {
-  margin: 0 0 10px 0;
-  font-size: 1.3rem;
-  color: #ff3c3c;
+  color: #6200ff;
+  margin-bottom: 0.5rem;
 }
 
 .link {
-  margin-bottom: 5px;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .link a {
-  color: #4faaff;
+  color: white;
   text-decoration: none;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  display: inline-block;
+  max-width: 100%; /*isso aqui meu amoigo, garante para nao ultrapassar a div bb*/
+  white-space: normal;
+}
+
+.link img {
+  display: block;
+  margin-top: 5px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0, 255, 204, 0.3);
+}
+
+.dados-section h2 {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  display: inline-block;
+  max-width: 100%; /*isso aqui meu amoigo, garante para nao ultrapassar a div bb*/
+  white-space: normal;
 }
 
 .link a:hover {
   text-decoration: underline;
 }
 
-.link img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 5px;
+.seletorDeSites {
+  width: 750px;
+  padding: 6px;
+  border-radius: 6px;
+  background-color: #111;
+  color: #6200ff;
+  border: 1px solid #6200ff;
+  font-family: monospace;
+}
+
+.dados-section h2 {
+  margin-top: 0.1px;
 }
 
 footer {
   text-align: center;
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: 40px;
+  padding: 1rem;
+  background-color: #1f1f1f;
+  color: #777;
 }

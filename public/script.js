@@ -101,18 +101,30 @@ function mostrarDados() {
 
 let todosOsDados = []
 
-//carregar os dados quando o usuario acessar a pagina
 window.addEventListener('DOMContentLoaded', () => {
+    // Tentar buscar os dados ao carregar a página
     fetch('/dados.json')
-        .then(res => res.json())
+        .then(res => {
+            // Verifica se a resposta foi bem-sucedida
+            if (!res.ok) {
+                // Exibe um erro caso a resposta não seja OK (por exemplo, 404 ou 500)
+                throw new Error(`Erro na requisição: ${res.status} - ${res.statusText}`);
+            }
+            // Tenta converter a resposta para JSON
+            return res.json();
+        })
         .then(dados => {
-            todosOsDados = dados
-            preencherSeletorDeSites()
+            // Caso a resposta seja um JSON válido, preenche os dados
+            todosOsDados = dados;
+            preencherSeletorDeSites();  // Atualiza o seletor de sites com os dados
         })
-        .catch(err => {
-            console.error(err)
-        })
-})
+        .catch(error => {
+            // Caso haja erro, exibe no console e alerta o usuário
+            console.error('Erro ao carregar dados.json:', error);
+            alert('Não foi possível carregar os dados. Verifique se o servidor está funcionando corretamente.');
+        });
+});
+
 
 function preencherSeletorDeSites() {
     const seletor = document.getElementById('seletorDeSites')
