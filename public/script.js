@@ -126,7 +126,7 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Preenche o seletor com os sites únicos
+// Preenche o seletor com domínios únicos
 function preencherSeletorDeSites(dados) {
     const seletor = document.getElementById('selectSites');
 
@@ -135,20 +135,26 @@ function preencherSeletorDeSites(dados) {
         return;
     }
 
-    // Limpa opções antigas
     seletor.innerHTML = '<option value="">Escolha um site</option>';
 
-    const sitesUnicos = [...new Set(dados.map(item => item.site))];
+    const hostsUnicos = [...new Set(dados.map(item => {
+        try {
+            return new URL(item.site).hostname;
+        } catch (e) {
+            console.warn('URL inválida nos dados:', item.site);
+            return null;
+        }
+    }).filter(Boolean))];
 
-    sitesUnicos.forEach(site => {
+    hostsUnicos.forEach(host => {
         const option = document.createElement('option');
-        option.value = site;
-        option.innerText = site;
+        option.value = host;
+        option.innerText = host;
         seletor.appendChild(option);
     });
 }
 
-// Mostra os links/imagens apenas do site selecionado no seletor
+// Mostra os links/imagens filtrados por domínio
 function mostrarLinksPorSites() {
     const siteSelecionado = document.getElementById('selectSites').value;
     const lista = document.getElementById('linksColetados');
@@ -156,7 +162,14 @@ function mostrarLinksPorSites() {
 
     if (!siteSelecionado) return;
 
-    const links = todosOsDados.filter(item => item.site === siteSelecionado);
+    const links = todosOsDados.filter(item => {
+        try {
+            return new URL(item.site).hostname === siteSelecionado;
+        } catch (e) {
+            console.warn('URL inválida nos dados:', item.site);
+            return false;
+        }
+    });
 
     links.forEach(link => {
         const li = document.createElement('li');
@@ -178,3 +191,5 @@ function mostrarLinksPorSites() {
         lista.appendChild(li);
     });
 }
+
+// (outras funções permanecem iguais)

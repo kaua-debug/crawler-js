@@ -42,7 +42,6 @@ app.post('/adicionar-site', async (req, res) => {
       return res.status(500).json({ message: 'Nenhum link encontrado na página' });
     }
 
-    // Lê os dados antigos (se existir)
     const caminhoJSON = path.join(__dirname, 'dados.json');
     let dadosAntigos = [];
 
@@ -56,19 +55,17 @@ app.post('/adicionar-site', async (req, res) => {
       }
     }
 
-    // Remove dados antigos do mesmo site
-    const dadosFiltrados = dadosAntigos.filter(item => item.site !== url);
-
-    // Adiciona novos dados
-    const novosDados = [...dadosFiltrados, ...resultado.links];
-
-    // Salva o arquivo atualizado
+      // NOVO: apenas adiciona os novos links, sem remover os antigos
+    const hrefsExistentes = new Set(dadosAntigos.map(item => item.href));
+    const linksNovos = resultado.links.filter(item => !hrefsExistentes.has(item.href));
+      
+    const novosDados = [...dadosAntigos, ...linksNovos];
+      
     fs.writeFileSync(caminhoJSON, JSON.stringify(novosDados, null, 2), 'utf-8');
     console.log(chalk.green('✅ dados.json atualizado'));
 
-    // Log do processo
     const dataHora = getDataHoraAtual();
-    const nomeArquivo = `log_${new URL(url).hostname}_${dataHora.formatoArquivo}.json`;
+    const nomeArquivo = `log_${novoHost}_${dataHora.formatoArquivo}.json`;
     const caminhoCompleto = path.join(pastaLogs, nomeArquivo);
 
     resultado.dataHoraLog = dataHora.formatoHumano;
@@ -107,7 +104,6 @@ async function crawler(url) {
     const links = [];
     const imagens = [];
 
-    // Captura de links
     $('a').each((index, element) => {
       const texto = $(element).text();
       const href = $(element).attr('href');
@@ -121,7 +117,6 @@ async function crawler(url) {
       }
     });
 
-    // Captura de imagens
     const imagemPromises = $('img').map(async (_, el) => {
       let src = $(el).attr('src');
       if (!src) return null;
@@ -173,9 +168,7 @@ async function baixarImagem(urlImagem, nomeArquivo) {
       method: 'GET',
       url: urlImagem,
       responseType: 'stream',
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
-      }
+      headers: { 'User-Agent': 'Mozilla/5.0' }
     });
 
     await new Promise((resolve, reject) => {
