@@ -300,3 +300,7 @@ app.delete('/excluir-site', (req, res) => {
         res.status(500).json({ mensagem: 'Erro interno ao excluir o site' })
     }
 })
+
+app.listen(port, () => {
+    console.log(`Servidor rodando em http://localhost:${port}`)
+})
