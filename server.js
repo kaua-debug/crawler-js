@@ -75,7 +75,9 @@ app.post('/adicionar-site', async (req, res) => {
         console.log(chalk.green('✅ dados.json atualizado'))
 
         const dataHora = getDataHoraAtual()
-        const nomeArquivo = `log_${new URL(url).hostname}_${dataHora.formatoArquivo}.json`
+/*yago fez isso*/const urlSanitizada = url.replace(/[:?&=\/\\]/g, '_')  // remove caracteres inválidos para nomes de arquivos no Windows
+        const nomeArquivo = `log_${new URL(url).hostname}_${dataHora.formatoArquivo}_${Buffer.from(urlSanitizada).toString('base64').slice(0, 30)}.json`
+        
         const caminhoCompleto = path.join(pastaLogs, nomeArquivo)
 
         resultado.dataHoraLog = dataHora.formatoHumano
@@ -130,17 +132,20 @@ async function crawler(url) {
             }
         })
 
+        //refiz isso novamente(yago)
         const imagem = $('img').map(async (_, el) => {
             let src = $(el).attr('src')
-            if (!src) return null
-
+            if (!src || src.startsWith('data:')) return null // ignora imagens base64
+            /*src.startsWith('data:') detecta imagens base64 (inline) que começam com algo como:
+            data:image/png;base64,iVBORw0KG...e as ignora. */
+        
             const dominio = new URL(url).origin
             if (src.startsWith('/')) src = dominio + src
             else if (!src.startsWith('http')) src = `${dominio}/${src}`
-
+        
             const extensao = path.extname(new URL(src).pathname).split('?')[0] || '.jpg'
             const nomeArquivo = `${Date.now()}-${Math.floor(Math.random() * 10000)}${extensao}`
-
+        
             const caminhoLocal = await baixarImagem(src, nomeArquivo)
             if (caminhoLocal) {
                 return {
