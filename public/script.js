@@ -39,8 +39,8 @@ function enviarUrl() {
                 preencherSeletorDeSites()
             })
     })
-    .catch(err => {
-        console.error(err)
+    .catch(error => {
+        console.error(error)
         alert('Erro ao adicionar URL:')
     })
 }
@@ -157,3 +157,23 @@ function mostrarLinksPorSite() {
         lista.appendChild(li) 
     })
 }
+
+   function mostrarImagensPorSite() {
+
+        const siteSelecionado = document.getElementById('SeletotDeImagens').value
+        const lista = document.getElementById('ImagensColetadas')
+        lista.innerHTML = ''
+
+        if (!siteSelecionado) return
+
+        const imagens = todosOsDados.filter(item => item.site === siteSelecionado && item.tipo === 'img')
+
+
+        imagens.forEach(img => {
+            const li = document.createElement('li')
+            const imagem = document.createElement('img')
+            imagem.src = img.href
+            imagem.alt = img.texto || 'imagem'
+        })
+
+    }
