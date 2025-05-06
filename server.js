@@ -29,19 +29,20 @@ if (!fs.existsSync(pastaImagens)) {
     fs.mkdirSync(pastaImagens, { recursive: true })
 }
 
-// Cria a pasta logs se não existir
-const pastaLogs = path.join(__dirname, 'logs')
-if (!fs.existsSync(pastaLogs)) {
-    fs.mkdirSync(pastaLogs)
-    console.log(chalk.green('Pasta de logs criada'))
-}
-
 // Rota principal
 app.post('/adicionar-site', async (req, res) => {
     const { url } = req.body
     if (!url) {
         return res.status(400).json({ mensagem: 'URL inválida' })
     }
+
+/* // Cria a pasta logs se não existir
+const pastaLogs = path.join(__dirname, 'logs')
+if (!fs.existsSync(pastaLogs)) {
+    fs.mkdirSync(pastaLogs)
+    console.log(chalk.green('Pasta de logs criada'))
+} */
+
 
     try {
         console.log(`🌐 Iniciando crawler para: ${url}`)
@@ -110,6 +111,15 @@ function getDataHoraAtual() {
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms))
 }
+
+
+ // Cria a pasta logs se não existir
+const pastaLogs = path.join(__dirname, 'logs')
+if (!fs.existsSync(pastaLogs)) {
+    fs.mkdirSync(pastaLogs)
+    console.log(chalk.green('Pasta de logs criada'))
+} 
+
 
 async function crawler(url) {
     try {
@@ -186,6 +196,59 @@ async function crawler(url) {
     }
 }
 
+async function iniciarCrawler() {
+    const todos_os_links = [] //cria um array para ganhar todos os links
+
+    //percorre cada URL da lista
+    for (let url of sites) {
+        //para cada site da lista exibe no terminal que esta visitando
+        console.log(`\n🌐 Visitando: ${url}`)
+
+        //chama o crawler()
+        const resultado = await crawler(url)
+
+        //caso o site nao rernar algo, ele pula para o proximo ou encerra
+        if (!resultado || !resultado.links) {
+            console.log(chalk.yellow(`⚠️ Nenhum dado retornado de ${url}. Pulando.`))
+            continue
+        }
+
+        // Adiciona os daos no array principal
+        todos_os_links.push(...resultado.links)
+
+        //cria o nome do arquivo e salva dentro da pasta logs
+        const dataHora = getDataHoraAtual()
+        const nomeArquivo = `log_${new URL(url).hostname}_${dataHora.formatoArquivo}.json`
+        const caminhoCompleto = path.join(pastaLogs, nomeArquivo)
+
+        resultado.dataHoraLog = dataHora.formatoHumano
+
+        fs.writeFileSync(caminhoCompleto, JSON.stringify(resultado, null, 2), 'utf-8')
+
+        console.log(`📄 Log salvo em: ${caminhoCompleto}`)
+
+        // Espera 2 segundos para evitar bloqueios
+        await delay(2000)
+    }
+
+    //remove linksUnicos
+    const linksUnicos = []
+    const setDeLinks = new Set()//cria um set para garantir que cada link seja unico
+
+    for (let link of todos_os_links) {
+        const chave = `${link.site}|${link.href}` //identificador unico
+        if (!setDeLinks.has(chave)) {
+            setDeLinks.add(chave)
+            linksUnicos.push(link)
+        }
+    }
+
+    // Salva todos os links juntos
+    fs.writeFileSync('dados.json', JSON.stringify(linksUnicos, null, 2), 'utf-8')
+    console.log(chalk.green('\n✅ Todos os dados foram salvos em dados.json'))
+}
+
+
 async function baixarImagem(urlImagem, nomeArquivo) {
     const caminhoCompleto = path.join(pastaImagens, nomeArquivo)
 
@@ -207,10 +270,33 @@ async function baixarImagem(urlImagem, nomeArquivo) {
         return `/imagens/${nomeArquivo}`
     } catch (error) {
         console.error(chalk.red(`Erro ao baixar a imagem ${urlImagem}: ${error.message}`))
-        return null
+        if (error.response) {
+            console.error(`Status: ${error.response.status}`)
+            console.error(`Resposta: ${error.response.data}`)
+        }
     }
 }
 
-app.listen(port, () => {
-    console.log(`Servidor rodando em http://localhost:${port}`)
+app.delete('/excluir-site', (req, res) => {
+    const { site } = req.body
+
+    if (!site) {
+        return res.status(400).json({ mensagem: 'Site nao informado' })
+    }
+
+    try {
+        let dados = []
+        if (fs.existsSync('dados.json')) {
+            dados = JSON.parse(fs.readFileSync('dados.json', 'utf-8'))
+        }
+
+        const novosDados = dados.filter(item => item.site !== site)
+
+        fs.writeFileSync('dados.json', JSON.stringify(novosDados, null, 2), 'utf-8')
+
+        res.json({ mensagem: 'Dados do site removidos com sucesso' })
+    } catch (err) {
+        console.error('Erro ao excluir site:', err)
+        res.status(500).json({ mensagem: 'Erro interno ao excluir o site' })
+    }
 })
