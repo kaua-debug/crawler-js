@@ -1,0 +1,24 @@
+{
+  "titulo": "Amazon.com.br",
+  "site": "https://www.amazon.com.br/?tag=msndesktopsta-20&hvadid=&hvpos=&hvexid={aceid}&hvnetw=o&hvrand=&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=147008&hvtargid=kwd-71331395852319:loc-20&ref=pd_sl_4g0yu04uek_e",
+  "totalLinks": 3,
+  "links": [
+    {
+      "site": "https://www.amazon.com.br/?tag=msndesktopsta-20&hvadid=&hvpos=&hvexid={aceid}&hvnetw=o&hvrand=&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=147008&hvtargid=kwd-71331395852319:loc-20&ref=pd_sl_4g0yu04uek_e",
+      "texto": "Condições de Uso",
+      "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088"
+    },
+    {
+      "site": "https://www.amazon.com.br/?tag=msndesktopsta-20&hvadid=&hvpos=&hvexid={aceid}&hvnetw=o&hvrand=&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=147008&hvtargid=kwd-71331395852319:loc-20&ref=pd_sl_4g0yu04uek_e",
+      "texto": "Políticas de Privacidade",
+      "href": "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496"
+    },
+    {
+      "site": "https://www.amazon.com.br/?tag=msndesktopsta-20&hvadid=&hvpos=&hvexid={aceid}&hvnetw=o&hvrand=&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=147008&hvtargid=kwd-71331395852319:loc-20&ref=pd_sl_4g0yu04uek_e",
+      "tipo": "img",
+      "href": "/imagens/1746557321817-3199.jpg",
+      "text": ""
+    }
+  ],
+  "dataHoraLog": "06/05/2025 15:48"
+}

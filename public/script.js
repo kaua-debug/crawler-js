@@ -160,7 +160,7 @@ function mostrarLinksPorSite() {
 
    function mostrarImagensPorSite() {
 
-        const siteSelecionado = document.getElementById('SeletotDeImagens').value
+        const siteSelecionado = document.getElementById('seletorDeImagens').value
         const lista = document.getElementById('ImagensColetadas')
         lista.innerHTML = ''
 
@@ -174,6 +174,46 @@ function mostrarLinksPorSite() {
             const imagem = document.createElement('img')
             imagem.src = img.href
             imagem.alt = img.texto || 'imagem'
+            imagem.style.maxWidth = '200px'
+            imagem.style.marginBottom = '10px'
+            li.appendChild(imagem)
+            lista.appendChild(li)
         })
 
     }
+
+        function excluirSite() {
+            const siteSelecionado = document.getElementById('seletorDeSites').value
+
+            if (!siteSelecionado) {
+                alert('selecione um site para excluir')
+                return
+            }
+
+            if(!confirm(`Tem certeza de que deseja excluir esses sites '${siteSelecionado}'?` )) return
+
+            fetch('/excluir-site', {
+                method: 'DELETE',
+                headers: {
+                   'Content-Type': 'application/json' 
+                }, 
+                body: JSON.stringify ({ site: siteSelecionado})
+            })
+            .then(res => res.json())
+            .then(data => {
+                alert(data.mensagem || 'site excluido com sucesso')
+
+                //Atualiza os dados exibidos
+                
+                
+                todosOsDados = todosOsDados.filter(item => item.site !== siteSelecionado)
+                preencherSeletorDeSites()
+                fecharDados()
+            })
+
+            .catch(eror => {
+                console.error(eror)
+                alert('Erro ao excluir site')
+            })
+
+        }
