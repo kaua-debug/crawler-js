@@ -127,14 +127,22 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 function preencherSeletorDeSites() {
-    const seletor = document.getElementById('seletorDeSites')
+    const seletorLinks = document.getElementById('seletorDeSites')
+    const seletorImagens = document.getElementById('seletorDeImagens')
+
     const sitesUnicos = [...new Set(todosOsDados.map(item => item.site))]
 
+    seletorLinks.innerHTML = '<option value="">Escolha um site</option>'
+    seletorImagens.innerHTML = '<option value="">Escolha um site</option>'
+
     sitesUnicos.forEach(site => {
-        const option = document.createElement('option')
-        option.value = site
-        option.innerText = site
-        seletor.appendChild(option)
+        const option1 = document.createElement('option')
+        option1.value = site
+        option1.innerText = site
+        seletorLinks.appendChild(option1)
+
+        const option2 = option1.cloneNode(true)
+        seletorImagens.appendChild(option2)
     })
 }
 
@@ -199,79 +207,57 @@ function mostrarLinksPorSite() {
 
     }
 
-            //Soetor do modal
-
-            document.getElementById('abrirModal').onclick = () => {
-                document.getElementById('modal').style.display = 'block'
-                carregarSites()
-            }
-
-            document.getElementById('fecharModal').onclick = () => {
-                document.getElementById('modal').attributeStyleMap.display = 'none'
-            }
-
-            document.getElementById("filtroSites").oninput = function () {
-                const filtro = this.value.toLowerCase()
-                const itens = document.querySelectorAll('#listaSites li')
-                itens.forEach(item => {
-                    const texto = item.textContent.toLowerCase()
-                    item.style.display = texto.includes(filtro) ? 'flex' : 'none'
-                })
-            }
-
-            async function carregarSites() {
-                const res = await fetch('/dados.json')
-                const dados = await res.json()
-
-
-                const sitesUnicos = [...new Set(dados.map(d => d.site))]
-
-                const lista = document.getElementById('listaSites')
-                lista.innerHTML = '' //limpa antes de popular 
-
-                sitesUnicos.forEach(site => {
-                    const li = document.createElement('li')
-                    li.innerHTML = `
-                        <span>${site}</span>
-                        <button onclick="excluirSite('${site}')">Excluir</button>
-                    `;
-                    lista.appendChild(li)
-                
+    document.getElementById('abrirModal').onclick = () => {
+        document.getElementById('modal').style.display = 'block'
+        carregarSites()
+    }
+    
+    document.getElementById('fecharModal').onclick = () => {
+        document.getElementById('modal').style.display = 'none'
+    }
+    
+    document.getElementById("filtroSites").oninput = function () {
+        const filtro = this.value.toLowerCase()
+        const itens = document.querySelectorAll('#listaSites li')
+        itens.forEach(item => {
+            const texto = item.textContent.toLowerCase()
+            item.style.display = texto.includes(filtro) ? 'flex' : 'none'
+        })
+    }
+    
+    async function carregarSites() {
+        const res = await fetch('/dados.json')
+        const dados = await res.json()
+    
+        const sitesUnicos = [...new Set(dados.map(d => d.site))]
+    
+        const lista = document.getElementById('listaSites')
+        lista.innerHTML = '' //limpa antes de popular
+    
+        sitesUnicos.forEach(site => {
+            const li = document.createElement('li')
+            li.innerHTML = `
+                <span>${site}</span>
+                <button onclick="excluirSite('${site}')">Excluir</button>
+            `;
+            lista.appendChild(li)
+        
+        })
+    
+    }
+            async function excluirSite(site) {
+                if (!confirm(`tem certeza que deseja excluir todos os dados do site:\n${site} (OS DADOS FICARAO SALVOS EM LOG)?`)) return
+            
+                const res = await fetch('/excluir-site', {
+                    method: 'DELETE',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ site })
                 })
             
+                if (res.ok) {
+                    alert('Site excluido com sucesso!')
+                    carregarSites()//atualiza a lista
+                } else {
+                    alert('Erro ao excluir site')
+                }
             }
-        function excluirSite() {
-            const siteSelecionado = document.getElementById('seletorDeSites').value
-
-            if (!siteSelecionado) {
-                alert('selecione um site para excluir')
-                return
-            }
-
-            if(!confirm(`Tem certeza de que deseja excluir esses sites '${siteSelecionado}'?` )) return
-
-            fetch('/excluir-site', {
-                method: 'DELETE',
-                headers: {
-                   'Content-Type': 'application/json' 
-                }, 
-                body: JSON.stringify ({ site: siteSelecionado})
-            })
-            .then(res => res.json())
-            .then(data => {
-                alert(data.mensagem || 'site excluido com sucesso')
-
-                //Atualiza os dados exibidos
-                
-                
-                todosOsDados = todosOsDados.filter(item => item.site !== siteSelecionado)
-                preencherSeletorDeSites()
-                fecharDados()
-            })
-
-            .catch(eror => {
-                console.error(eror)
-                alert('Erro ao excluir site')
-            })
-
-        }
