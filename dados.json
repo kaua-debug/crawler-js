@@ -3393,5 +3393,275 @@
     "tipo": "img",
     "href": "/imagens/1746560801653-318.jpg",
     "text": ""
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Yahoo",
+    "href": "https://www.yahoo.com"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Configurações",
+    "href": "https://br.search.yahoo.com/preferences/preferences?pref_done=https%3A%2F%2Fbr.search.yahoo.com%2Fsearch%3Ffr%3Dmcafee%26type%3DE210BR1589G0%26p%3Dpichau"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Email",
+    "href": "https://br.mail.yahoo.com/?.intl=br&.lang=pt-BR"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Finanças",
+    "href": "https://br.financas.yahoo.com"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Ajuda",
+    "href": "https://br.ajuda.yahoo.com/kb/search-for-desktop"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Entrar",
+    "href": "https://login.yahoo.com/?.intl=br&.lang=pt-BR&pspid=2114710003&.src=search&.done=https%3A%2F%2Fbr.search.yahoo.com%2Fsearch%3Ffr%3Dmcafee%26type%3DE210BR1589G0%26p%3Dpichau&activity=header-signin"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Imagens",
+    "href": "https://br.images.search.yahoo.com/search/images?p=pichau&fr2=piv-web&type=E210BR1589G0&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Vídeos",
+    "href": "https://br.video.search.yahoo.com/search/video?p=pichau&fr2=piv-web&type=E210BR1589G0&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Notícias",
+    "href": "https://br.news.search.yahoo.com/search?p=pichau&fr2=piv-web&type=E210BR1589G0&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Dia anterior",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau&fr2=time&btf=d&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Semana passada",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau&fr2=time&btf=w&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Mês passado",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau&fr2=time&btf=m&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Qualquer período",
+    "href": "#"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "www.pichau.com.brPichau - Os Melhores Preços do Brasil",
+    "href": "https://www.pichau.com.br/"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Monte Seu PC",
+    "href": "https://www.pichau.com.br/monte-seu-pc"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Computadores Gamer",
+    "href": "https://www.pichau.com.br/computadores/pichau-gamer"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Aniversário",
+    "href": "https://www.pichau.com.br/promocao/aniversario"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Placa de Vídeo",
+    "href": "https://www.pichau.com.br/hardware/placa-de-video"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Placa Mãe",
+    "href": "https://www.pichau.com.br/hardware/placa-m-e"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Monitores Gamer",
+    "href": "https://www.pichau.com.br/monitores/monitores-gamer"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Quem Somos",
+    "href": "https://www.pichau.com.br/quem-somos"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Computadores Workstation",
+    "href": "https://www.pichau.com.br/computadores/pichau-workstation"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "www.pichau.com.br › computadoresComputadores Mais Baratos do Brasil - Pichau",
+    "href": "https://www.pichau.com.br/computadores"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "www.mercadolivre.com.br › loja › pichauPichau | Loja Oficial - Mercado Livre",
+    "href": "https://www.mercadolivre.com.br/loja/pichau"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichaugaming.com.brPichau Gaming",
+    "href": "https://pichaugaming.com.br/"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "www.instagram.com › pichauoficialPichau (@pichauoficial) • Instagram photos and videos",
+    "href": "https://www.instagram.com/pichauoficial/"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau gamer",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+gamer&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau informática",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+inform%C3%A1tica&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau monte seu pc",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+monte+seu+pc&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "cupom pichau",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=cupom+pichau&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "terabyte",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=terabyte&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "mercado livre",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=mercado+livre&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "kabum",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=kabum&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pinterest",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pinterest&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "studio pc",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=studio+pc&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "shopinfo",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=shopinfo&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "monitor pichau",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=monitor+pichau&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "gabinete pichau",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=gabinete+pichau&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "2",
+    "href": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau&b=8&pz=7&xargs=0"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "3",
+    "href": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau&b=15&pz=7&xargs=0"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "4",
+    "href": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau&b=22&pz=7&xargs=0"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "5",
+    "href": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau&b=29&pz=7&xargs=0"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau gamer",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+gamer&fr2=p%3As%2Cv%3Aw%2Cm%3Aat-e%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau informática",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+inform%C3%A1tica&fr2=p%3As%2Cv%3Aw%2Cm%3Aat-e%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "pichau monte seu pc",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=pichau+monte+seu+pc&fr2=p%3As%2Cv%3Aw%2Cm%3Aat-e%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "cupom pichau",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=cupom+pichau&fr2=p%3As%2Cv%3Aw%2Cm%3Aat-e%2Cct%3Agossip&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "terabyte",
+    "href": "https://br.search.yahoo.com/search?type=E210BR1589G0&p=terabyte&fr2=p%3As%2Cv%3Aw%2Cm%3Aat-e%2Cct%3Aseaview&fr=mcafee"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Configurações",
+    "href": "https://br.search.yahoo.com/preferences/preferences?pref_done=https%3A%2F%2Fbr.search.yahoo.com%2Fsearch%3Ffr%3Dmcafee%26type%3DE210BR1589G0%26p%3Dpichau&.bcrumb=undefined"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Ajuda",
+    "href": "https://br.ajuda.yahoo.com/kb/search-for-mobile-web"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Termos",
+    "href": "https://guce.yahoo.com/terms?locale=pt-BR"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Privacidade",
+    "href": "https://guce.yahoo.com/privacy-policy?locale=pt-BR"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Painel de privacidade",
+    "href": "https://guce.yahoo.com/privacy-dashboard?locale=pt-BR&done=https%3A%2F%2Fbr.search.yahoo.com%2Fsearch%3Ffr%3Dmcafee%26type%3DE210BR1589G0%26p%3Dpichau"
+  },
+  {
+    "site": "https://br.search.yahoo.com/search?fr=mcafee&type=E210BR1589G0&p=pichau",
+    "texto": "Sobre anúncios",
+    "href": "https://br.ajuda.yahoo.com/kb/search-for-desktop/ads-yahoo-search-results-sln2244.html?impressions=true"
   }
 ]

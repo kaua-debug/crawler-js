@@ -158,6 +158,23 @@ function mostrarLinksPorSite() {
     })
 }
 
+/*function preencherSeletorDeImagens() {
+    const seletor = document.getElementById('seletorDeImagens')
+    seletor.innerHTML = '<option value="">Escolha um site</option>'
+
+    const sitesUnicos = [...new Set(todosOsDados
+        .filter(item => item.tipo === 'img')
+        .map(item => item.site)
+    )]
+
+    sitesUnicos.forEach(site => {
+        const option = document.createElement('option')
+        option.value = site
+        option.innerText = site
+        seletor.appendChild(option)
+    })*/
+
+
    function mostrarImagensPorSite() {
 
         const siteSelecionado = document.getElementById('seletorDeImagens').value
@@ -182,6 +199,47 @@ function mostrarLinksPorSite() {
 
     }
 
+            //Soetor do modal
+
+            document.getElementById('abrirModal').onclick = () => {
+                document.getElementById('modal').style.display = 'block'
+                carregarSites()
+            }
+
+            document.getElementById('fecharModal').onclick = () => {
+                document.getElementById('modal').attributeStyleMap.display = 'none'
+            }
+
+            document.getElementById("filtroSites").oninput = function () {
+                const filtro = this.value.toLowerCase()
+                const itens = document.querySelectorAll('#listaSites li')
+                itens.forEach(item => {
+                    const texto = item.textContent.toLowerCase()
+                    item.style.display = texto.includes(filtro) ? 'flex' : 'none'
+                })
+            }
+
+            async function carregarSites() {
+                const res = await fetch('/dados.json')
+                const dados = await res.json()
+
+
+                const sitesUnicos = [...new Set(dados.map(d => d.site))]
+
+                const lista = document.getElementById('listaSites')
+                lista.innerHTML = '' //limpa antes de popular 
+
+                sitesUnicos.forEach(site => {
+                    const li = document.createElement('li')
+                    li.innerHTML = `
+                        <span>${site}</span>
+                        <button onclick="excluirSite('${site}')">Excluir</button>
+                    `;
+                    lista.appendChild(li)
+                
+                })
+            
+            }
         function excluirSite() {
             const siteSelecionado = document.getElementById('seletorDeSites').value
 
