@@ -1,141 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --bg-body: #090d16;
+  --bg-surface: #111827;
+  --bg-elevated: #0b1120;
+  --border-color: #1f2937;
+  --border-hover: #374151;
+  --text-main: #f3f4f6;
+  --text-muted: #9ca3af;
+  --primary: #6366f1;
+  --primary-hover: #4f46e5;
+  --accent-link: #38bdf8;
+  --danger-bg: rgba(239, 68, 68, 0.12);
+  --danger-border: rgba(239, 68, 68, 0.35);
+  --danger-text: #f87171;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: #000;
-  color: #e0e0e0;
-  font-family: 'Courier New', monospace;
+  background-color: var(--bg-body);
+  color: var(--text-main);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   margin: 0;
   padding: 0;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 header {
-  background-color: #111;
-  color: #fff;
+  background-color: var(--bg-surface);
+  color: #ffffff;
   text-align: center;
-  padding: 1.5rem;
-  font-size: 2rem;
-  font-weight: bold;
-  letter-spacing: 1px;
-  box-shadow: 0 0 15px rgba(98, 0, 255, 0.7);
+  padding: 1.75rem 1.5rem;
+  font-size: 1.65rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
 }
 
 main {
-  max-width: 900px;
-  margin: auto;
-  padding: 2rem;
+  width: 100%;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+  flex: 1;
 }
 
 .form-section,
 .links-section,
 .dados-section {
-  background-color: #111;
+  background-color: var(--bg-surface);
   padding: 2rem;
-  border-radius: 16px;
-  margin-bottom: 2rem;
-  box-shadow: 0 0 20px rgba(0, 255, 204, 0.4);
-  transition: 0.3s;
+  border-radius: 12px;
+  margin-bottom: 1.75rem;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .form-section:hover,
 .links-section:hover,
 .dados-section:hover {
-  box-shadow: 0 0 30px rgba(0, 255, 204, 0.7);
+  border-color: var(--border-hover);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
 
-select {
-  width: 100%;
-  padding: 0.75rem;
-  border-radius: 10px;
-  background-color: #000;
-  color: #8a2be2;
-  border: 2px solid #8a2be2;
-  font-family: monospace;
-  font-size: 1rem;
-  transition: 0.3s;
-  box-shadow: 0 0 10px #8a2be2;
+.form-section h2,
+.links-section h2,
+.dados-section h2 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text-main);
 }
 
-select:focus {
-  outline: none;
-  border-color: #00ffd0;
-  box-shadow: 0 0 12px #00ffd0;
-}
-
-
+select,
 input[type="url"] {
   width: 100%;
-  padding: 1rem;
-  background-color: #000;
-  border: 2px solid #8a2be2;
-  color: #fff;
-  font-size: 1rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px #8a2be2;
-  transition: 0.3s;
+  padding: 0.85rem 1rem;
+  border-radius: 8px;
+  background-color: var(--bg-elevated);
+  color: var(--text-main);
+  border: 1px solid var(--border-hover);
+  font-family: inherit;
+  font-size: 0.95rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  margin-bottom: 0.75rem;
 }
 
+input[type="url"] {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem;
+}
+
+select:focus,
 input[type="url"]:focus {
-  border-color: #8a2be2;
-  box-shadow: 0 0 15px #8a2be2;
   outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
 }
 
 button {
-  margin-top: 10px;
-  padding: 0.75rem 1.5rem;
-  background: #8a2be2;
-  border: none;
-  border-radius: 10px;
-  color: #fff;
-  font-weight: bold;
+  margin-top: 8px;
+  margin-right: 8px;
+  padding: 0.7rem 1.35rem;
+  background-color: #1f2937;
+  border: 1px solid var(--border-hover);
+  border-radius: 8px;
+  color: var(--text-main);
+  font-family: inherit;
+  font-weight: 500;
   cursor: pointer;
-  font-size: 1rem;
-  transition: 0.3s;
-  box-shadow: 0 0 10px #8a2be2;
+  font-size: 0.9rem;
+  transition: all 0.15s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
 }
 
 button:hover {
-  background: #5f00ff;
-  box-shadow: 0 0 20px #5f00ff;
+  background-color: #374151;
+  border-color: #4b5563;
+}
+
+/* Destaque no botão principal (Adicionar) */
+button:first-of-type {
+  background-color: var(--primary);
+  border-color: var(--primary);
+  color: #ffffff;
+}
+
+button:first-of-type:hover {
+  background-color: var(--primary-hover);
+  border-color: var(--primary-hover);
+}
+
+/* Destaque sutil de alerta no botão Excluir */
+button:nth-of-type(2) {
+  background-color: var(--danger-bg);
+  border-color: var(--danger-border);
+  color: var(--danger-text);
+}
+
+button:nth-of-type(2):hover {
+  background-color: rgba(239, 68, 68, 0.2);
 }
 
 .site {
-  background-color: #111;
-  margin-bottom: 1.5rem;
-  padding: 1.5rem;
-  border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0, 255, 204, 0.4);
-  transition: 0.3s;
+  background-color: var(--bg-elevated);
+  margin-bottom: 1.25rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  transition: border-color 0.2s ease;
+}
+
+.site:hover {
+  border-color: var(--border-hover);
 }
 
 .site h2 {
-  color: #8a2be2;
-  margin-bottom: 1rem;
+  color: #a5b4fc;
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  word-break: break-all;
 }
 
 .link {
-  margin-left: 1rem;
+  margin-left: 0.5rem;
   margin-bottom: 0.5rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--border-hover);
 }
 
 .link a {
-  color: #fff;
+  color: var(--text-muted);
   text-decoration: none;
+  font-size: 0.88rem;
+  font-family: 'JetBrains Mono', monospace;
   word-break: break-word;
   display: inline-block;
   max-width: 100%;
   white-space: normal;
-  transition: 0.3s;
+  transition: color 0.15s ease;
 }
 
 .link a:hover {
   text-decoration: underline;
-  color: #00ffd0;
+  color: var(--accent-link);
 }
 
 footer {
   text-align: center;
   padding: 1.5rem;
-  background-color: #111;
-  color: #777;
-  font-size: 0.9rem;
-  border-top: 1px solid #333;
-}
+  background-color: var(--bg-surface);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--border-color);
+  margin-top: auto;
+} 
